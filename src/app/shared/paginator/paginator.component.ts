@@ -9,7 +9,7 @@ import { FilterInput } from '../../core/models/shared/filter.input';
 })
 export class PaginatorComponent {
 
-  @Input() length = 10;
+  @Input() length;
   @Output() filterUpdated = new EventEmitter();
   pageSize = 10;
   pageSizeOptions: number[] = [5, 10, 25, 100];
@@ -25,14 +25,16 @@ export class PaginatorComponent {
   }
   ngOnInit(): void {
     const paginator = {
-      pageIndex: this.length,
+      pageIndex: 1,
       pageSize: this.pageSize,
     }
     this.filter = new FilterInput(paginator)
   }
 
   updatePagination(paginator) {
-    this.filterUpdated.emit(paginator);
+    this.filter.page = paginator.pageIndex + 1;
+    this.filter.limit = paginator.pageSize;
+    this.filterUpdated.emit(this.filter);
   }
 
 }

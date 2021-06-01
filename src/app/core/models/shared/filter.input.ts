@@ -1,13 +1,12 @@
 export class FilterInput {
-  page: number;
-  limit: number;
+  page = 1;
+  limit = 10;
   order: string;
 
   constructor(
     page?, order = 'asc'
   ) {
-    console.log(this.page)
-    if (this.page) {
+    if (page) {
       this.page = page.pageIndex;
       this.limit = page.pageSize;
     }

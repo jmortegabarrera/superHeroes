@@ -11,6 +11,7 @@ import { FilterInput } from '../../core/models/shared/filter.input';
 export class DashboardComponent implements OnInit {
 
   heroes: SuperHero[];
+  totalHeroes: number;
   filter: FilterInput;
 
   constructor(
@@ -20,8 +21,11 @@ export class DashboardComponent implements OnInit {
   ngOnInit() {
     this.filter = new FilterInput();
     this.reloadHeroes(this.filter);
-  }
 
+    this.superHeroesService.getAllHeroesCount$().subscribe(result => {
+      this.totalHeroes = result;
+    });
+  }
 
   private reloadHeroes(filter: FilterInput) {
     this.superHeroesService.getAllHeroes$(filter).subscribe(result => {

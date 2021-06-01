@@ -22,6 +22,13 @@ export class SuperHeroesService {
         return new GetAllHeroesResponse(result)
       }
     ))
-
+  }
+  
+  getAllHeroesCount$(): Observable<number> {
+    return this.httpClient.get( `${this.urlBackend}/superheroes`).pipe(map(
+      result => {
+        return  Object.keys(result).length;;
+      }
+    ))
   }
 }

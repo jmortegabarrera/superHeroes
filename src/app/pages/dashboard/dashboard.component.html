@@ -1,0 +1,2 @@
+<p>dashboard works!</p>
+<app-paginator *ngIf="heroes" [length]="heroes.length" (filterUpdated)="reloadHeroes($event)"></app-paginator>

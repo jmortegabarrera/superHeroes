@@ -8,10 +8,14 @@ import { MatSelectModule } from '@angular/material/select';
 import { MatInputModule } from '@angular/material/input';
 import { MatSortModule } from '@angular/material/sort';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HeroPowerComponent } from './hero-power/hero-power.component';
+import { ToastrModule } from 'ngx-toastr';
+import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
 
 @NgModule({
   declarations: [
-    PaginatorComponent
+    PaginatorComponent,
+    HeroPowerComponent
   ],
   imports: [
     CommonModule,
@@ -22,9 +26,12 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     MatSelectModule,
     FormsModule,
     BrowserAnimationsModule,
+    ToastrModule.forRoot(),
+    SweetAlert2Module.forRoot(),
   ],
   exports: [
-    PaginatorComponent
+    PaginatorComponent,
+    HeroPowerComponent,
   ]
 })
 export class SharedModule { }

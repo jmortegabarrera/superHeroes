@@ -1,2 +1,11 @@
-<p>dashboard works!</p>
+<div class="row">
+  <app-navbar (searchHeroesEvent)=searchHeroes($event) (orderHeroesEvent)=orderHeroes($event) [totalHeroesForId]="totalHeroesForId" ></app-navbar>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-xl-3 col-lg-4 col-md-6 col-xs-12 mb-3" *ngFor="let hero of heroes">
+      <app-hero-card [hero]="hero" [filter]="getHeroesByNameInput" (needReload)=getHeroesFiltered($event)></app-hero-card>
+    </div>
+  </div>
+</div>
 <app-paginator *ngIf="heroes" [length]="totalHeroes" (filterUpdated)="reloadHeroes($event)"></app-paginator>

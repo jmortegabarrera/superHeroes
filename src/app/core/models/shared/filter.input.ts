@@ -1,7 +1,7 @@
 export class FilterInput {
   page = 1;
   limit = 10;
-  order: string;
+  order : string;
 
   constructor(
     page?, order = 'asc'

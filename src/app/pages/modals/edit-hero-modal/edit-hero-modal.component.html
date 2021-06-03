@@ -1,0 +1,30 @@
+<div class="modal-header">
+  <h4 class="modal-title" *ngIf="hero">Edit {{hero.name}}</h4>
+  <h4 class="modal-title" *ngIf="!hero">Create new Hero</h4>
+  <button type="button" class="close" aria-label="Close" (click)="activeModal.close()">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<div class="modal-body">
+  <div class="form-group">
+    <label for="name">Name</label>
+    <input type="text" class="form-control" id="name" required [(ngModel)]="heroInput.name" name="name">
+  </div>
+
+  <div class="form-group">
+    <label for="image">Image Url</label>
+    <input type="text" class="form-control" id="image" [(ngModel)]="heroInput.images" name="image">
+  </div>
+
+  <div class="form-group">
+    <label for="power">Hero Powers</label>
+    <div *ngFor="let power of powers;let i = index">
+      <label for="rangeSelector" class="form-label">{{power[0]}}</label>
+      <input type="range" class="form-range" [(ngModel)]="powers[i][1]" value="{{power[1]}}" min="0" max="100" id="rangeSelector">
+    </div>
+  </div>
+</div>
+<div class="modal-footer">
+  <button type="button" class="btn btn btn-success" (click)="save()">Guardar</button>
+  <button type="button" class="btn btn btn-secondary" (click)="activeModal.close()">Cerrar</button>
+</div>

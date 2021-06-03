@@ -1,1 +1,17 @@
-<p>hero-card works!</p>
+<mat-card class="hero-card">
+  <mat-card-header class="col-12 mb-2">
+    <div class="row col-12">
+      <div class="col-8">
+        <span class="h6 ">{{hero.name}}</span>
+      </div>
+      <div class="col-4 text-end">
+        <i class="fas fa-edit text-warning m-1" (click)="openEditHeroModal()"></i>
+        <i class="fas fa-trash text-danger m-1" (click)="deleteHero(hero.id)"></i>
+      </div>
+    </div>
+  </mat-card-header>
+  <img mat-card-image src="{{hero.image}}" alt="hero.name">
+  <mat-card-content>
+    <app-hero-power [powers]="hero.powerstats"></app-hero-power>
+  </mat-card-content>
+</mat-card>

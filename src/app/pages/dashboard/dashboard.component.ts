@@ -2,10 +2,7 @@ import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 import { SuperHero } from '../../core/models/superhero/superhero.model';
 import { SuperHeroesService } from '../../core/services/super-heroes.service';
 import { FilterInput } from '../../core/models/shared/filter.input';
-import { GetHeroByIdInput } from '../../core/models/superhero/getHeroById.input';
 import { GetHeroesByNameInput } from '../../core/models/superhero/getHeroesByName.input';
-import { DeleteHeroInput } from '../../core/models/superhero/deleteHero.input';
-import { Powers } from '../../core/models/superhero/powers.model';
 import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({

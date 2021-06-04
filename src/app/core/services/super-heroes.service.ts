@@ -63,7 +63,7 @@ export class SuperHeroesService {
       + '&' + '_limit=' + getHeroesByNameInput.filter.limit + '&name_like=' + getHeroesByNameInput.name + '&_sort=name&_order=' + getHeroesByNameInput.filter.order)
       .pipe(map(
         result => {
-          const heroes = this.mapNativeToSuperHero(result) 
+          const heroes = this.mapNativeToSuperHero(result)
           return new GetHeroesByNameResponse(heroes)
         }
       ))
@@ -79,6 +79,7 @@ export class SuperHeroesService {
 
   updateHero$(updateHeroInput: UpdateHeroInput): Observable<boolean> {
     const url = `${this.urlBackend}/superheroes/` + updateHeroInput.superHeroInput.id;
+    updateHeroInput.superHeroInput.name = this.capitalizeFirstLetter(updateHeroInput.superHeroInput.name);
     updateHeroInput.superHeroInput.images = { lg: updateHeroInput.superHeroInput.images }
 
     return this.httpClient
@@ -92,6 +93,7 @@ export class SuperHeroesService {
 
   createHero$(createHeroInput: CreateHeroInput): Observable<boolean> {
     const url = `${this.urlBackend}/superheroes/`;
+    createHeroInput.superHeroInput.name = this.capitalizeFirstLetter(createHeroInput.superHeroInput.name);
     createHeroInput.superHeroInput.images = { lg: createHeroInput.superHeroInput.images }
 
     return this.httpClient
@@ -109,4 +111,7 @@ export class SuperHeroesService {
     });
   }
 
+  private capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+  }
 }

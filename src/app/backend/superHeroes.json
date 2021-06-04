@@ -50,9 +50,9 @@
     },
     {
       "id": 12,
-      "name": "Air-Walker jose",
+      "name": "AIR-WALKER",
       "powerstats": {
-        "intelligence": 54,
+        "intelligence": 34,
         "strength": 85,
         "speed": 100,
         "durability": 85,
@@ -98,7 +98,7 @@
     },
     {
       "id": 13,
-      "name": "Ajax",
+      "name": "AJAX ",
       "powerstats": {
         "intelligence": 56,
         "strength": 48,
@@ -143,15 +143,12 @@
         "relatives": "-"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/13-ajax.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/13-ajax.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/13-ajax.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/13-ajax.jpg"
       }
     },
     {
       "id": 14,
-      "name": "Alan Scott",
+      "name": "ALAN SCOTT A",
       "powerstats": {
         "intelligence": 63,
         "strength": 80,
@@ -196,15 +193,12 @@
         "relatives": "Harlequin (Molly Mayne-Scott) (wife), Thorn (Rose Canton) (first wife, deceased), Todd Rice (Obsidian, son), Jennie-Lynn Hayden (Jade, daughter, deceased)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/14-alan-scott.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/14-alan-scott.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/14-alan-scott.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/14-alan-scott.jpg"
       }
     },
     {
       "id": 15,
-      "name": "Alex Mercer",
+      "name": "Alex Mercer a",
       "powerstats": {
         "intelligence": 50,
         "strength": 80,
@@ -249,9 +243,6 @@
         "relatives": "Dana Mercer (sister)"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/15-alex-mercer.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/15-alex-mercer.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/15-alex-mercer.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/15-alex-mercer.jpg"
       }
     },
@@ -623,7 +614,7 @@
     },
     {
       "id": 29,
-      "name": "Annihilus",
+      "name": "Annihiluss",
       "powerstats": {
         "intelligence": 75,
         "strength": 80,
@@ -667,9 +658,6 @@
         "relatives": "Annihilus is a series of clonal scions"
       },
       "images": {
-        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/29-annihilus.jpg",
-        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/29-annihilus.jpg",
-        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/29-annihilus.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/29-annihilus.jpg"
       }
     },
@@ -29133,36 +29121,6 @@
       }
     },
     {
-      "id": 732,
-      "name": "josea",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      },
-      "powerstats": {
-        "intelligence": 100,
-        "strength": 100,
-        "speed": 100,
-        "durability": 92,
-        "power": 100,
-        "combat": 100
-      }
-    },
-    {
-      "id": 733,
-      "name": "test",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      },
-      "powerstats": {
-        "intelligence": 17,
-        "strength": 0,
-        "speed": 0,
-        "durability": 0,
-        "power": 0,
-        "combat": 0
-      }
-    },
-    {
       "id": 734,
       "name": "TES1",
       "images": {
@@ -29210,6 +29168,66 @@
     {
       "id": 737,
       "name": "aaaaaaaaa",
+      "images": {
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+      },
+      "powerstats": {
+        "intelligence": 0,
+        "strength": 0,
+        "speed": 0,
+        "durability": 0,
+        "power": 0,
+        "combat": 0
+      }
+    },
+    {
+      "id": 738,
+      "name": "jamilenuo",
+      "images": {
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+      },
+      "powerstats": {
+        "intelligence": 0,
+        "strength": 0,
+        "speed": 0,
+        "durability": 0,
+        "power": 0,
+        "combat": 0
+      }
+    },
+    {
+      "id": 739,
+      "name": "aaaa",
+      "images": {
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/12-air-walker.jpg"
+      },
+      "powerstats": {
+        "intelligence": 0,
+        "strength": 0,
+        "speed": 0,
+        "durability": 0,
+        "power": 0,
+        "combat": 0
+      }
+    },
+    {
+      "id": 740,
+      "name": "ab",
+      "images": {
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
+      },
+      "powerstats": {
+        "intelligence": 0,
+        "strength": 0,
+        "speed": 0,
+        "durability": 0,
+        "power": 0,
+        "combat": 0
+      }
+    },
+    {
+      "id": 741,
+      "name": "ab",
       "images": {
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
       },

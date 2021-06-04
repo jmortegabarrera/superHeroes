@@ -5,8 +5,6 @@ import { EditHeroModalComponent } from '../modals/edit-hero-modal/edit-hero-moda
 import { DeleteHeroInput } from '../../core/models/superhero/deleteHero.input';
 import { SuperHeroesService } from '../../core/services/super-heroes.service';
 import Swal from 'sweetalert2';
-import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
-import { FilterInput } from '../../core/models/shared/filter.input';
 import { GetHeroesByNameInput } from '../../core/models/superhero/getHeroesByName.input';
 
 @Component({
@@ -19,6 +17,7 @@ export class HeroCardComponent implements OnInit {
   @Input() hero: SuperHero;
   @Input() filter: GetHeroesByNameInput;
   @Output() needReload = new EventEmitter<GetHeroesByNameInput>();
+  loading = false;
 
   constructor(
     private readonly modalService: NgbModal,
@@ -47,11 +46,14 @@ export class HeroCardComponent implements OnInit {
       denyButtonText: `Cancel`,
     }).then((result) => {
       if (result.isConfirmed) {
+        this.loading = true;
         this.superHeroesService.deleteHero$(deleteinput).subscribe(result => {
           if (result) {
             Swal.fire('Deleted!', '', 'success')
             this.needReload.emit(this.filter);
+            this.loading = false;
           } else {
+            this.loading = false;
             Swal.fire('Not deleted', '', 'error')
           }
         })

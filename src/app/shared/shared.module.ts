@@ -11,11 +11,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeroPowerComponent } from './hero-power/hero-power.component';
 import { ToastrModule } from 'ngx-toastr';
 import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
+import { LoaderComponent } from './loader/loader.component';
 
 @NgModule({
   declarations: [
     PaginatorComponent,
-    HeroPowerComponent
+    HeroPowerComponent,
+    LoaderComponent
   ],
   imports: [
     CommonModule,
@@ -32,6 +34,7 @@ import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
   exports: [
     PaginatorComponent,
     HeroPowerComponent,
+    LoaderComponent,
   ]
 })
 export class SharedModule { }

@@ -1,18 +1,18 @@
 <nav class="navbar navbar-light bg-light justify-content-between p-4 mb-3">
   <a class="navbar-brand">SuperHeroesApp</a>
   <div class="row">
-    <button class="btn btn-primary" type="button" (click)="orderHeroes()">Ordenar
+    <button class="btn btn-primary" type="button" (click)="orderHeroes()">Order
       <i *ngIf="order === 'desc'" class="fas fa-arrow-down"></i>
       <i *ngIf="order === 'asc'" class="fas fa-arrow-up"></i>
     </button>
   </div>
   <div class="form-group row">
     <div class="col-3">
-      <button class="btn btn-success " type="button" (click)="openAddHeroModal()">Añadir</button>
+      <button class="btn btn-success " type="button" (click)="openAddHeroModal()">Add <i class="fas fa-plus"></i></button>
     </div>
     <div class="col-6">
-      <input class="form-control" type="text" [(ngModel)]="searchString" placeholder="Buscar">
+      <input class="form-control" type="text" [(ngModel)]="searchString" placeholder="Search Hero">
     </div>
-    <button class="btn btn-outline-success col-3 " type="button" (click)="searchHeroes()">Buscar</button>
+    <button class="btn btn-outline-success col-3 " type="button" (click)="searchHeroes()">Search <i class="fas fa-search"></i></button>
   </div>
 </nav>

@@ -7,6 +7,7 @@ import { SuperHeroesService } from '../../../core/services/super-heroes.service'
 import { ToastrService } from 'ngx-toastr';
 import { CreateHeroInput } from '../../../core/models/superhero/createHero.input';
 import { Powers } from '../../../core/models/superhero/powers.model';
+import { timeout } from 'rxjs/operators';
 
 @Component({
   selector: 'app-edit-hero-modal',
@@ -18,6 +19,7 @@ export class EditHeroModalComponent implements OnInit {
   @Output() reloadHeroes: EventEmitter<any> = new EventEmitter();
   @Input() hero: SuperHero;
   @Input() totalHeroesForId: number;
+  loading = false;
   heroInput = new SuperHeroInput();
   powers;
 
@@ -31,30 +33,31 @@ export class EditHeroModalComponent implements OnInit {
     this.heroInput.images = 'https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg';
     this.heroInput.powerstats = new Powers(0, 0, 0, 0, 0, 0);
     this.powers = Object.entries(this.heroInput.powerstats);
-
   }
 
   ngOnInit(): void {
     if (this.hero) {
       this.heroInput.id = this.hero.id;
       this.heroInput.name = this.hero.name;
-      this.heroInput.images = this.hero.image;
+      this.heroInput.images = this.hero.images;
       this.heroInput.powerstats = this.hero.powerstats;
       this.powers = Object.entries(this.hero.powerstats);
     }
+    console.log(this.heroInput.images)
   }
 
   save() {
     if (this.hero) {
+      this.loading = true;
       const updateinput = new UpdateHeroInput()
       updateinput.superHeroInput = this.heroInput;
       this.mapPowersRawToPowersEntity();
-
       this.superHeroesService.updateHero$(updateinput).subscribe(result => {
         this.activeModal.close();
         this.showToast(result, 'Hero edited ok', 'Failed to edit hero');
       })
     } else {
+      this.loading = true;
       const createinput = new CreateHeroInput()
       createinput.superHeroInput = new SuperHeroInput()
       createinput.superHeroInput.id = this.totalHeroesForId + 1;
@@ -67,13 +70,14 @@ export class EditHeroModalComponent implements OnInit {
       })
     }
   }
-  
 
   private showToast(result: boolean, success: string, error: string) {
     if (result) {
-      this.reloadHeroes.emit();
       this.toast.success(success);
+      this.reloadHeroes.emit();
+      this.loading = false;
     } else {
+      this.loading = false;
       this.toast.error(error);
     }
   }
@@ -88,4 +92,7 @@ export class EditHeroModalComponent implements OnInit {
     this.heroInput.powerstats.power = powersRaw.power;
     this.heroInput.powerstats.combat = powersRaw.combat;
   }
+
+  isString(val): boolean { return typeof val === 'string'; }
+
 }

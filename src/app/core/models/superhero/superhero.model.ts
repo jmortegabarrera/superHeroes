@@ -3,12 +3,12 @@ export class SuperHero {
   id: string;
   name: string;
   powerstats: Powers;
-  image: string;
+  images: string;
 
   constructor(id, name, powerstats, image) {
     this.id = id;
     this.name = name;
     this.powerstats = powerstats;
-    this.image = image;
+    this.images = image;
   }
 }

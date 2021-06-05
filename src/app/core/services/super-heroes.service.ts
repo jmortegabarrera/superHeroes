@@ -53,7 +53,11 @@ export class SuperHeroesService {
   getHeroById$(getHeroByIdInput: GetHeroByIdInput): Observable<GetHeroByIdResponse> {
     return this.httpClient.get(`${this.urlBackend}/superheroes?id=` + getHeroByIdInput.id).pipe(map(
       result => {
-        return new GetHeroByIdResponse(result[0])
+        if(Object.keys(result).length > 0){
+          const heroes = this.mapNativeToSuperHero(result)
+          return new GetHeroByIdResponse(heroes[0])
+        }
+        return ;
       }
     ))
   }

@@ -1,5 +1,5 @@
 
 export class GetHeroByIdInput {
-  id: string
+  id: number
 
 }

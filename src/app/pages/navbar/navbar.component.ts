@@ -9,11 +9,13 @@ import { EditHeroModalComponent } from '../modals/edit-hero-modal/edit-hero-moda
 })
 export class NavbarComponent implements OnInit {
 
-  @Output() searchHeroesEvent = new EventEmitter<string>();
+  @Output() searchHeroesEvent = new EventEmitter<any>();
   @Output() orderHeroesEvent = new EventEmitter<string>();
   @Input() totalHeroesForId: number;
   searchString = '';
+  searchId = 0;
   order = 'asc';
+  searchType = false;
 
   constructor(
     private modalService: NgbModal,
@@ -31,7 +33,18 @@ export class NavbarComponent implements OnInit {
   }
 
   searchHeroes() {
-    this.searchHeroesEvent.emit(this.searchString);
+    if (!this.searchType) {
+      const searchData = { searchString: this.searchString, type: this.searchType }
+      this.searchHeroesEvent.emit(searchData);
+    }
+    if (this.searchType) {
+      const searchData = { searchString: this.searchId, type: this.searchType }
+      this.searchHeroesEvent.emit(searchData);
+    }
+  }
+
+  swapSearch() {
+    this.searchType = !this.searchType;
   }
 
   orderHeroes() {

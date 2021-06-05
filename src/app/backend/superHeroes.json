@@ -1,8 +1,490 @@
 {
   "superheroes": [
     {
+      "id": 1,
+      "name": "A-Bomb",
+      "slug": "1-a-bomb",
+      "powerstats": {
+        "intelligence": 38,
+        "strength": 100,
+        "speed": 17,
+        "durability": 80,
+        "power": 24,
+        "combat": 64
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'8",
+          "203 cm"
+        ],
+        "weight": [
+          "980 lb",
+          "441 kg"
+        ],
+        "eyeColor": "Yellow",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Richard Milhouse Jones",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Rick Jones"
+        ],
+        "placeOfBirth": "Scarsdale, Arizona",
+        "firstAppearance": "Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Musician, adventurer, author; formerly talk show host",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
+        "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/1-a-bomb.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/1-a-bomb.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/1-a-bomb.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Abe Sapien",
+      "slug": "2-abe-sapien",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 28,
+        "speed": 35,
+        "durability": 65,
+        "power": 100,
+        "combat": 85
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Icthyo Sapien",
+        "height": [
+          "6'3",
+          "191 cm"
+        ],
+        "weight": [
+          "145 lb",
+          "65 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Abraham Sapien",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Langdon Everett Caul",
+          "Abraham Sapien",
+          "Langdon Caul"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Hellboy: Seed of Destruction (1993)",
+        "publisher": "Dark Horse Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Paranormal Investigator",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Bureau for Paranormal Research and Defense",
+        "relatives": "Edith Howard (wife, deceased)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/2-abe-sapien.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/2-abe-sapien.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/2-abe-sapien.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/2-abe-sapien.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Abin Sur",
+      "slug": "3-abin-sur",
+      "powerstats": {
+        "intelligence": 50,
+        "strength": 90,
+        "speed": 53,
+        "durability": 64,
+        "power": 99,
+        "combat": 65
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Ungaran",
+        "height": [
+          "6'1",
+          "185 cm"
+        ],
+        "weight": [
+          "200 lb",
+          "90 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Lagzia"
+        ],
+        "placeOfBirth": "Ungara",
+        "firstAppearance": "Showcase #22 (October, 1959)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Green Lantern, former history professor",
+        "base": "Oa"
+      },
+      "connections": {
+        "groupAffiliation": "Green Lantern Corps, Black Lantern Corps",
+        "relatives": "Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/3-abin-sur.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/3-abin-sur.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/3-abin-sur.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/3-abin-sur.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Abomination",
+      "slug": "4-abomination",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 80,
+        "speed": 53,
+        "durability": 90,
+        "power": 62,
+        "combat": 95
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human / Radiation",
+        "height": [
+          "6'8",
+          "203 cm"
+        ],
+        "weight": [
+          "980 lb",
+          "441 kg"
+        ],
+        "eyeColor": "Green",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Emil Blonsky",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Agent R-7",
+          "Ravager of Worlds"
+        ],
+        "placeOfBirth": "Zagreb, Yugoslavia",
+        "firstAppearance": "Tales to Astonish #90",
+        "publisher": "Marvel Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Ex-Spy",
+        "base": "Mobile"
+      },
+      "connections": {
+        "groupAffiliation": "former member of the crew of the Andromeda Starship, ally of the Abominations and Forgotten",
+        "relatives": "Nadia Dornova Blonsky (wife, separated)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/4-abomination.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/4-abomination.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/4-abomination.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/4-abomination.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Abraxas",
+      "slug": "5-abraxas",
+      "powerstats": {
+        "intelligence": 88,
+        "strength": 63,
+        "speed": 83,
+        "durability": 100,
+        "power": 100,
+        "combat": 55
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Cosmic Entity",
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Black"
+      },
+      "biography": {
+        "fullName": "Abraxas",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "-"
+        ],
+        "placeOfBirth": "Within Eternity",
+        "firstAppearance": "Fantastic Four Annual #2001",
+        "publisher": "Marvel Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Dimensional destroyer",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Cosmic Beings",
+        "relatives": "Eternity (\"Father\")"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/5-abraxas.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/5-abraxas.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/5-abraxas.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/5-abraxas.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Absorbing Man",
+      "slug": "6-absorbing-man",
+      "powerstats": {
+        "intelligence": 38,
+        "strength": 80,
+        "speed": 25,
+        "durability": 100,
+        "power": 98,
+        "combat": 64
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'4",
+          "193 cm"
+        ],
+        "weight": [
+          "270 lb",
+          "122 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "No Hair"
+      },
+      "biography": {
+        "fullName": "Carl Creel",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Greithoth",
+          "\"Crusher\" Creel",
+          "Rocky Davis",
+          "Dynamite Davis",
+          "Lightningbolt",
+          "Prisoner #24957"
+        ],
+        "placeOfBirth": "New York City, New York",
+        "firstAppearance": "Daredevil #1 (April, 1964) (As Rocky Davis)",
+        "publisher": "Marvel Comics",
+        "alignment": "bad"
+      },
+      "work": {
+        "occupation": "Professional criminal; former professional boxer",
+        "base": "-"
+      },
+      "connections": {
+        "groupAffiliation": "Masters of Evil, Lethal Legion; formerly Worthy, Frightful Four: former agent of Loki and They Who Wield Power",
+        "relatives": "Mary MacPherran (Titania) (wife); Jerry Sledge (son); Rockwell \"Rocky\" Davis (Hi-Llite) (cousin)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/6-absorbing-man.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/6-absorbing-man.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/6-absorbing-man.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/6-absorbing-man.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Adam Monroe",
+      "slug": "7-adam-monroe",
+      "powerstats": {
+        "intelligence": 63,
+        "strength": 10,
+        "speed": 12,
+        "durability": 100,
+        "power": 100,
+        "combat": 64
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": null,
+        "height": [
+          "-",
+          "0 cm"
+        ],
+        "weight": [
+          "- lb",
+          "0 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Takezo Kensei",
+          "Richard Sanders"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Heroes S02E01 - Four Months Later...",
+        "publisher": "NBC - Heroes",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "former samurai swordsman, former British mercenary commander, former soldier in the Confederate Army",
+        "base": "U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
+      },
+      "connections": {
+        "groupAffiliation": "-",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/7-adam-monroe.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/7-adam-monroe.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/7-adam-monroe.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/7-adam-monroe.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Adam Strange",
+      "slug": "8-adam-strange",
+      "powerstats": {
+        "intelligence": 69,
+        "strength": 10,
+        "speed": 33,
+        "durability": 40,
+        "power": 37,
+        "combat": 50
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'1",
+          "185 cm"
+        ],
+        "weight": [
+          "195 lb",
+          "88 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Adam Strange",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Warrior of Two Worlds",
+          "Savior of Rann"
+        ],
+        "placeOfBirth": "Chicago, Illinois",
+        "firstAppearance": "Outsiders #6 (April, 1986)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, archaelogist, ambassador",
+        "base": "Rann, Alpha Centauri System"
+      },
+      "connections": {
+        "groupAffiliation": "Omega Men, L.E.G.I.O.N., R.E.B.E.L.S., formerly Seven Soldiers of Victory",
+        "relatives": "Alanna Strange (wife); Aleea Strange (daughter); Sardath (father-in-law); Janey Strange (sister); Todd Strange (brother, deceased); Bantteir (mother-in-law); Adam Strange II (descendent)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/8-adam-strange.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/8-adam-strange.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/8-adam-strange.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/8-adam-strange.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Agent Bob",
+      "slug": "10-agent-bob",
+      "powerstats": {
+        "intelligence": 10,
+        "strength": 8,
+        "speed": 13,
+        "durability": 5,
+        "power": 5,
+        "combat": 20
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "5'10",
+          "178 cm"
+        ],
+        "weight": [
+          "181 lb",
+          "81 kg"
+        ],
+        "eyeColor": "Brown",
+        "hairColor": "Brown"
+      },
+      "biography": {
+        "fullName": "Bob",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "Bob",
+          "agent of Hydra",
+          "Bob",
+          "agent of A.I.M"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Cable & Deadpool #38 (May, 2007)",
+        "publisher": "Marvel Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Mercenary, janitor; former pirate, terrorist",
+        "base": "Mobile; formerly Manhattan, Hellcarrier"
+      },
+      "connections": {
+        "groupAffiliation": "A.I.M., Deadpool; formerly Agency X, Hydra",
+        "relatives": "Allison (ex-wife); Terry and Howie (sons)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/10-agent-bob.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/10-agent-bob.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/10-agent-bob.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/10-agent-bob.jpg"
+      }
+    },
+    {
       "id": 11,
-      "name": "aAgent Zero",
+      "name": "Agent Zero",
+      "slug": "11-agent-zero",
       "powerstats": {
         "intelligence": 75,
         "strength": 28,
@@ -45,14 +527,18 @@
         "relatives": "Unidentified parents (deceased), Andreas Nord (brother, deceased), Ginetta Lucia Barsalini (wife, deceased), unnamed child (deceased)"
       },
       "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/11-agent-zero.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/11-agent-zero.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/11-agent-zero.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/11-agent-zero.jpg"
       }
     },
     {
       "id": 12,
-      "name": "Air-walker",
+      "name": "Air-Walker",
+      "slug": "12-air-walker",
       "powerstats": {
-        "intelligence": 34,
+        "intelligence": 50,
         "strength": 85,
         "speed": 100,
         "durability": 85,
@@ -93,14 +579,18 @@
         "relatives": "-"
       },
       "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/12-air-walker.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/12-air-walker.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/12-air-walker.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/12-air-walker.jpg"
       }
     },
     {
       "id": 13,
-      "name": "AJAX ",
+      "name": "Ajax",
+      "slug": "13-ajax",
       "powerstats": {
-        "intelligence": 31,
+        "intelligence": 56,
         "strength": 48,
         "speed": 35,
         "durability": 80,
@@ -143,12 +633,16 @@
         "relatives": "-"
       },
       "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/15-alex-mercer.jpg"
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/13-ajax.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/13-ajax.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/13-ajax.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/13-ajax.jpg"
       }
     },
     {
       "id": 14,
-      "name": "ALAN SCOTT A",
+      "name": "Alan Scott",
+      "slug": "14-alan-scott",
       "powerstats": {
         "intelligence": 63,
         "strength": 80,
@@ -193,12 +687,16 @@
         "relatives": "Harlequin (Molly Mayne-Scott) (wife), Thorn (Rose Canton) (first wife, deceased), Todd Rice (Obsidian, son), Jennie-Lynn Hayden (Jade, daughter, deceased)"
       },
       "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/14-alan-scott.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/14-alan-scott.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/14-alan-scott.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/14-alan-scott.jpg"
       }
     },
     {
       "id": 15,
-      "name": "Alex Mercer a",
+      "name": "Alex Mercer",
+      "slug": "15-alex-mercer",
       "powerstats": {
         "intelligence": 50,
         "strength": 80,
@@ -243,12 +741,16 @@
         "relatives": "Dana Mercer (sister)"
       },
       "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/15-alex-mercer.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/15-alex-mercer.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/15-alex-mercer.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/15-alex-mercer.jpg"
       }
     },
     {
       "id": 17,
       "name": "Alfred Pennyworth",
+      "slug": "17-alfred-pennyworth",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -300,6 +802,7 @@
     {
       "id": 18,
       "name": "Alien",
+      "slug": "18-alien",
       "powerstats": {
         "intelligence": 50,
         "strength": 28,
@@ -351,6 +854,7 @@
     {
       "id": 20,
       "name": "Amazo",
+      "slug": "20-amazo",
       "powerstats": {
         "intelligence": 63,
         "strength": 100,
@@ -405,6 +909,7 @@
     {
       "id": 23,
       "name": "Angel",
+      "slug": "23-angel",
       "powerstats": {
         "intelligence": 75,
         "strength": 30,
@@ -457,6 +962,7 @@
     {
       "id": 24,
       "name": "Angel",
+      "slug": "24-angel",
       "powerstats": {
         "intelligence": 63,
         "strength": 13,
@@ -512,6 +1018,7 @@
     {
       "id": 25,
       "name": "Angel Dust",
+      "slug": "25-angel-dust",
       "powerstats": {
         "intelligence": 38,
         "strength": 55,
@@ -564,6 +1071,7 @@
     {
       "id": 26,
       "name": "Angel Salvadore",
+      "slug": "26-angel-salvadore",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -613,8 +1121,61 @@
       }
     },
     {
+      "id": 28,
+      "name": "Animal Man",
+      "slug": "28-animal-man",
+      "powerstats": {
+        "intelligence": 56,
+        "strength": 48,
+        "speed": 47,
+        "durability": 85,
+        "power": 73,
+        "combat": 80
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'0",
+          "183 cm"
+        ],
+        "weight": [
+          "185 lb",
+          "83 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Bernhard Baker",
+        "alterEgos": "No alter egos found.",
+        "aliases": [
+          "The Human Zoo; A-Man; The Man with Animal Powers"
+        ],
+        "placeOfBirth": "-",
+        "firstAppearance": "Strange Adventures #180 (September, 1965)",
+        "publisher": "DC Comics",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "-",
+        "base": "San Diego, California"
+      },
+      "connections": {
+        "groupAffiliation": "Formerly Animal Masters, Forgotten Heroes, Justice League of America, Justice League Europe",
+        "relatives": "Ellen Frazier (wife), Cliff Baker (son), Maxine Baker (daughter), unnamed second daughter, Frank Baker, Jr. (father), Phyllis Baker (mother), unnamed sister, Frank, Sr (grandfather), Teddy (great grandfather), Sherman (great-great grandfather), Jack (great-great-great grandfather), Mary Frazier (mother-in-law), Dudley (uncle-in-law), Annie Cassidy (mother of second daughter), Lucy Cassidy (half-sister of second daughter)"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/28-animal-man.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/28-animal-man.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/28-animal-man.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/28-animal-man.jpg"
+      }
+    },
+    {
       "id": 29,
-      "name": "Annihiluss",
+      "name": "Annihilus",
+      "slug": "29-annihilus",
       "powerstats": {
         "intelligence": 75,
         "strength": 80,
@@ -658,12 +1219,74 @@
         "relatives": "Annihilus is a series of clonal scions"
       },
       "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/29-annihilus.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/29-annihilus.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/29-annihilus.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/29-annihilus.jpg"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Ant-Man",
+      "slug": "30-ant-man",
+      "powerstats": {
+        "intelligence": 100,
+        "strength": 18,
+        "speed": 23,
+        "durability": 28,
+        "power": 32,
+        "combat": 32
+      },
+      "appearance": {
+        "gender": "Male",
+        "race": "Human",
+        "height": [
+          "6'11",
+          "211 cm"
+        ],
+        "weight": [
+          "270 lb",
+          "122 kg"
+        ],
+        "eyeColor": "Blue",
+        "hairColor": "Blond"
+      },
+      "biography": {
+        "fullName": "Hank Pym",
+        "alterEgos": "Giant-Man, Goliath, Wasp II, Yellowjacket",
+        "aliases": [
+          "Hank Pym",
+          "Doctor Pym",
+          "Ant-Man",
+          "Goliath",
+          "Yellowjacket",
+          "Wasp",
+          "Earth's Scientist Supreme"
+        ],
+        "placeOfBirth": "Elmsford, New York",
+        "firstAppearance": "Tales to Astonish #27 (January, 1962) (as Hank Pym)  Tales to Astonish #35 (September, 1962) (as Ant-Man)",
+        "publisher": "Giant-Man",
+        "alignment": "good"
+      },
+      "work": {
+        "occupation": "Adventurer, Biochemist, former manager of Avengers Compound",
+        "base": "Avengers Compound, Los Angeles; formerly Infinite Avengers Mansion; Captive aboard a Skrull ship; Avengers Mansion, New York City, New York"
+      },
+      "connections": {
+        "groupAffiliation": "Avengers Academy, Secret Avengers; formerly Mighty Avengers, Avengers (founding member), Defenders, Future Iron Man's Team",
+        "relatives": "-"
+      },
+      "images": {
+        "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/30-ant-man.jpg",
+        "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/30-ant-man.jpg",
+        "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/30-ant-man.jpg",
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/30-ant-man.jpg"
       }
     },
     {
       "id": 31,
       "name": "Ant-Man II",
+      "slug": "31-ant-man-ii",
       "powerstats": {
         "intelligence": 75,
         "strength": 18,
@@ -716,6 +1339,7 @@
     {
       "id": 32,
       "name": "Anti-Monitor",
+      "slug": "32-anti-monitor",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -768,6 +1392,7 @@
     {
       "id": 34,
       "name": "Anti-Venom",
+      "slug": "34-anti-venom",
       "powerstats": {
         "intelligence": 75,
         "strength": 60,
@@ -824,6 +1449,7 @@
     {
       "id": 35,
       "name": "Apocalypse",
+      "slug": "35-apocalypse",
       "powerstats": {
         "intelligence": 100,
         "strength": 100,
@@ -880,6 +1506,7 @@
     {
       "id": 36,
       "name": "Aquababy",
+      "slug": "36-aquababy",
       "powerstats": {
         "intelligence": 10,
         "strength": 16,
@@ -931,6 +1558,7 @@
     {
       "id": 37,
       "name": "Aqualad",
+      "slug": "37-aqualad",
       "powerstats": {
         "intelligence": 63,
         "strength": 44,
@@ -982,6 +1610,7 @@
     {
       "id": 38,
       "name": "Aquaman",
+      "slug": "38-aquaman",
       "powerstats": {
         "intelligence": 81,
         "strength": 85,
@@ -1038,6 +1667,7 @@
     {
       "id": 39,
       "name": "Arachne",
+      "slug": "39-arachne",
       "powerstats": {
         "intelligence": 50,
         "strength": 48,
@@ -1090,6 +1720,7 @@
     {
       "id": 40,
       "name": "Archangel",
+      "slug": "40-archangel",
       "powerstats": {
         "intelligence": 63,
         "strength": 13,
@@ -1144,6 +1775,7 @@
     {
       "id": 41,
       "name": "Arclight",
+      "slug": "41-arclight",
       "powerstats": {
         "intelligence": 38,
         "strength": 63,
@@ -1195,6 +1827,7 @@
     {
       "id": 42,
       "name": "Ardina",
+      "slug": "42-ardina",
       "powerstats": {
         "intelligence": 63,
         "strength": 100,
@@ -1246,6 +1879,7 @@
     {
       "id": 43,
       "name": "Ares",
+      "slug": "43-ares",
       "powerstats": {
         "intelligence": 75,
         "strength": 82,
@@ -1300,6 +1934,7 @@
     {
       "id": 44,
       "name": "Ariel",
+      "slug": "44-ariel",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -1351,6 +1986,7 @@
     {
       "id": 45,
       "name": "Armor",
+      "slug": "45-armor",
       "powerstats": {
         "intelligence": 50,
         "strength": 63,
@@ -1403,6 +2039,7 @@
     {
       "id": 48,
       "name": "Atlas",
+      "slug": "48-atlas",
       "powerstats": {
         "intelligence": 63,
         "strength": 80,
@@ -1459,6 +2096,7 @@
     {
       "id": 49,
       "name": "Atlas",
+      "slug": "49-atlas",
       "powerstats": {
         "intelligence": 63,
         "strength": 100,
@@ -1511,6 +2149,7 @@
     {
       "id": 52,
       "name": "Atom Girl",
+      "slug": "52-atom-girl",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -1562,6 +2201,7 @@
     {
       "id": 53,
       "name": "Atom II",
+      "slug": "53-atom-ii",
       "powerstats": {
         "intelligence": 88,
         "strength": 10,
@@ -1615,6 +2255,7 @@
     {
       "id": 56,
       "name": "Aurora",
+      "slug": "56-aurora",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -1666,6 +2307,7 @@
     {
       "id": 57,
       "name": "Azazel",
+      "slug": "57-azazel",
       "powerstats": {
         "intelligence": 50,
         "strength": 11,
@@ -1724,6 +2366,7 @@
     {
       "id": 58,
       "name": "Azrael",
+      "slug": "58-azrael",
       "powerstats": {
         "intelligence": 63,
         "strength": 18,
@@ -1775,6 +2418,7 @@
     {
       "id": 60,
       "name": "Bane",
+      "slug": "60-bane",
       "powerstats": {
         "intelligence": 88,
         "strength": 38,
@@ -1826,6 +2470,7 @@
     {
       "id": 61,
       "name": "Banshee",
+      "slug": "61-banshee",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -1877,6 +2522,7 @@
     {
       "id": 62,
       "name": "Bantam",
+      "slug": "62-bantam",
       "powerstats": {
         "intelligence": 25,
         "strength": 53,
@@ -1928,6 +2574,7 @@
     {
       "id": 63,
       "name": "Batgirl",
+      "slug": "63-batgirl",
       "powerstats": {
         "intelligence": 88,
         "strength": 11,
@@ -1980,6 +2627,7 @@
     {
       "id": 66,
       "name": "Batgirl IV",
+      "slug": "66-batgirl-iv",
       "powerstats": {
         "intelligence": 69,
         "strength": 12,
@@ -2032,6 +2680,7 @@
     {
       "id": 68,
       "name": "Batgirl VI",
+      "slug": "68-batgirl-vi",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -2086,6 +2735,7 @@
     {
       "id": 69,
       "name": "Batman",
+      "slug": "69-batman",
       "powerstats": {
         "intelligence": 81,
         "strength": 40,
@@ -2141,6 +2791,7 @@
     {
       "id": 70,
       "name": "Batman",
+      "slug": "70-batman",
       "powerstats": {
         "intelligence": 100,
         "strength": 26,
@@ -2193,6 +2844,7 @@
     {
       "id": 71,
       "name": "Batman II",
+      "slug": "71-batman-ii",
       "powerstats": {
         "intelligence": 88,
         "strength": 11,
@@ -2244,6 +2896,7 @@
     {
       "id": 72,
       "name": "Battlestar",
+      "slug": "72-battlestar",
       "powerstats": {
         "intelligence": 50,
         "strength": 53,
@@ -2295,6 +2948,7 @@
     {
       "id": 73,
       "name": "Batwoman V",
+      "slug": "73-batwoman-v",
       "powerstats": {
         "intelligence": 81,
         "strength": 8,
@@ -2346,6 +3000,7 @@
     {
       "id": 75,
       "name": "Beast",
+      "slug": "75-beast",
       "powerstats": {
         "intelligence": 94,
         "strength": 48,
@@ -2402,6 +3057,7 @@
     {
       "id": 76,
       "name": "Beast Boy",
+      "slug": "76-beast-boy",
       "powerstats": {
         "intelligence": 50,
         "strength": 28,
@@ -2459,6 +3115,7 @@
     {
       "id": 78,
       "name": "Ben 10",
+      "slug": "78-ben-10",
       "powerstats": {
         "intelligence": 10,
         "strength": 7,
@@ -2510,6 +3167,7 @@
     {
       "id": 79,
       "name": "Beta Ray Bill",
+      "slug": "79-beta-ray-bill",
       "powerstats": {
         "intelligence": 63,
         "strength": 80,
@@ -2562,6 +3220,7 @@
     {
       "id": 80,
       "name": "Beyonder",
+      "slug": "80-beyonder",
       "powerstats": {
         "intelligence": 100,
         "strength": 100,
@@ -2623,6 +3282,7 @@
     {
       "id": 81,
       "name": "Big Barda",
+      "slug": "81-big-barda",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -2675,6 +3335,7 @@
     {
       "id": 82,
       "name": "Big Daddy",
+      "slug": "82-big-daddy",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -2726,6 +3387,7 @@
     {
       "id": 83,
       "name": "Big Man",
+      "slug": "83-big-man",
       "powerstats": {
         "intelligence": 75,
         "strength": 12,
@@ -2777,6 +3439,7 @@
     {
       "id": 84,
       "name": "Bill Harken",
+      "slug": "84-bill-harken",
       "powerstats": {
         "intelligence": 63,
         "strength": 36,
@@ -2828,6 +3491,7 @@
     {
       "id": 87,
       "name": "Bionic Woman",
+      "slug": "87-bionic-woman",
       "powerstats": {
         "intelligence": 56,
         "strength": 37,
@@ -2879,6 +3543,7 @@
     {
       "id": 88,
       "name": "Bird-Brain",
+      "slug": "88-bird-brain",
       "powerstats": {
         "intelligence": 25,
         "strength": 10,
@@ -2930,6 +3595,7 @@
     {
       "id": 92,
       "name": "Bishop",
+      "slug": "92-bishop",
       "powerstats": {
         "intelligence": 63,
         "strength": 14,
@@ -2981,6 +3647,7 @@
     {
       "id": 93,
       "name": "Bizarro",
+      "slug": "93-bizarro",
       "powerstats": {
         "intelligence": 38,
         "strength": 95,
@@ -3032,6 +3699,7 @@
     {
       "id": 95,
       "name": "Black Adam",
+      "slug": "95-black-adam",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -3086,6 +3754,7 @@
     {
       "id": 96,
       "name": "Black Bolt",
+      "slug": "96-black-bolt",
       "powerstats": {
         "intelligence": 75,
         "strength": 67,
@@ -3137,6 +3806,7 @@
     {
       "id": 97,
       "name": "Black Canary",
+      "slug": "97-black-canary",
       "powerstats": {
         "intelligence": 63,
         "strength": 8,
@@ -3188,6 +3858,7 @@
     {
       "id": 98,
       "name": "Black Canary",
+      "slug": "98-black-canary",
       "powerstats": {
         "intelligence": 63,
         "strength": 8,
@@ -3239,6 +3910,7 @@
     {
       "id": 99,
       "name": "Black Cat",
+      "slug": "99-black-cat",
       "powerstats": {
         "intelligence": 75,
         "strength": 16,
@@ -3290,6 +3962,7 @@
     {
       "id": 100,
       "name": "Black Flash",
+      "slug": "100-black-flash",
       "powerstats": {
         "intelligence": 44,
         "strength": 10,
@@ -3346,6 +4019,7 @@
     {
       "id": 102,
       "name": "Black Knight III",
+      "slug": "102-black-knight-iii",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -3399,6 +4073,7 @@
     {
       "id": 103,
       "name": "Black Lightning",
+      "slug": "103-black-lightning",
       "powerstats": {
         "intelligence": 50,
         "strength": 11,
@@ -3450,6 +4125,7 @@
     {
       "id": 104,
       "name": "Black Mamba",
+      "slug": "104-black-mamba",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -3501,6 +4177,7 @@
     {
       "id": 105,
       "name": "Black Manta",
+      "slug": "105-black-manta",
       "powerstats": {
         "intelligence": 75,
         "strength": 28,
@@ -3554,6 +4231,7 @@
     {
       "id": 106,
       "name": "Black Panther",
+      "slug": "106-black-panther",
       "powerstats": {
         "intelligence": 88,
         "strength": 16,
@@ -3611,6 +4289,7 @@
     {
       "id": 107,
       "name": "Black Widow",
+      "slug": "107-black-widow",
       "powerstats": {
         "intelligence": 75,
         "strength": 13,
@@ -3672,6 +4351,7 @@
     {
       "id": 109,
       "name": "Blackout",
+      "slug": "109-blackout",
       "powerstats": {
         "intelligence": 63,
         "strength": 32,
@@ -3723,6 +4403,7 @@
     {
       "id": 110,
       "name": "Blackwing",
+      "slug": "110-blackwing",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -3777,6 +4458,7 @@
     {
       "id": 111,
       "name": "Blackwulf",
+      "slug": "111-blackwulf",
       "powerstats": {
         "intelligence": 50,
         "strength": 28,
@@ -3829,6 +4511,7 @@
     {
       "id": 112,
       "name": "Blade",
+      "slug": "112-blade",
       "powerstats": {
         "intelligence": 63,
         "strength": 28,
@@ -3882,6 +4565,7 @@
     {
       "id": 114,
       "name": "Bling!",
+      "slug": "114-bling!",
       "powerstats": {
         "intelligence": 69,
         "strength": 14,
@@ -3933,6 +4617,7 @@
     {
       "id": 115,
       "name": "Blink",
+      "slug": "115-blink",
       "powerstats": {
         "intelligence": 50,
         "strength": 8,
@@ -3984,6 +4669,7 @@
     {
       "id": 118,
       "name": "Blizzard II",
+      "slug": "118-blizzard-ii",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -4035,6 +4721,7 @@
     {
       "id": 119,
       "name": "Blob",
+      "slug": "119-blob",
       "powerstats": {
         "intelligence": 10,
         "strength": 83,
@@ -4086,6 +4773,7 @@
     {
       "id": 120,
       "name": "Bloodaxe",
+      "slug": "120-bloodaxe",
       "powerstats": {
         "intelligence": 63,
         "strength": 80,
@@ -4137,6 +4825,7 @@
     {
       "id": 121,
       "name": "Bloodhawk",
+      "slug": "121-bloodhawk",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -4188,6 +4877,7 @@
     {
       "id": 126,
       "name": "Blue Beetle III",
+      "slug": "126-blue-beetle-iii",
       "powerstats": {
         "intelligence": 50,
         "strength": 34,
@@ -4239,6 +4929,7 @@
     {
       "id": 127,
       "name": "Boba Fett",
+      "slug": "127-boba-fett",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -4294,6 +4985,7 @@
     {
       "id": 130,
       "name": "Boom-Boom",
+      "slug": "130-boom-boom",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -4351,6 +5043,7 @@
     {
       "id": 135,
       "name": "Box IV",
+      "slug": "135-box-iv",
       "powerstats": {
         "intelligence": 50,
         "strength": 75,
@@ -4403,6 +5096,7 @@
     {
       "id": 136,
       "name": "Brainiac",
+      "slug": "136-brainiac",
       "powerstats": {
         "intelligence": 100,
         "strength": 95,
@@ -4454,6 +5148,7 @@
     {
       "id": 137,
       "name": "Brainiac 5",
+      "slug": "137-brainiac-5",
       "powerstats": {
         "intelligence": 100,
         "strength": 10,
@@ -4505,6 +5200,7 @@
     {
       "id": 139,
       "name": "Brundlefly",
+      "slug": "139-brundlefly",
       "powerstats": {
         "intelligence": 69,
         "strength": 32,
@@ -4556,6 +5252,7 @@
     {
       "id": 140,
       "name": "Buffy",
+      "slug": "140-buffy",
       "powerstats": {
         "intelligence": 63,
         "strength": 28,
@@ -4615,6 +5312,7 @@
     {
       "id": 141,
       "name": "Bullseye",
+      "slug": "141-bullseye",
       "powerstats": {
         "intelligence": 50,
         "strength": 11,
@@ -4671,6 +5369,7 @@
     {
       "id": 142,
       "name": "Bumblebee",
+      "slug": "142-bumblebee",
       "powerstats": {
         "intelligence": 63,
         "strength": 28,
@@ -4722,6 +5421,7 @@
     {
       "id": 144,
       "name": "Bushido",
+      "slug": "144-bushido",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -4773,6 +5473,7 @@
     {
       "id": 145,
       "name": "Cable",
+      "slug": "145-cable",
       "powerstats": {
         "intelligence": 88,
         "strength": 48,
@@ -4831,6 +5532,7 @@
     {
       "id": 146,
       "name": "Callisto",
+      "slug": "146-callisto",
       "powerstats": {
         "intelligence": 63,
         "strength": 53,
@@ -4882,6 +5584,7 @@
     {
       "id": 147,
       "name": "Cameron Hicks",
+      "slug": "147-cameron-hicks",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -4933,6 +5636,7 @@
     {
       "id": 148,
       "name": "Cannonball",
+      "slug": "148-cannonball",
       "powerstats": {
         "intelligence": 50,
         "strength": 28,
@@ -4986,6 +5690,7 @@
     {
       "id": 149,
       "name": "Captain America",
+      "slug": "149-captain-america",
       "powerstats": {
         "intelligence": 69,
         "strength": 19,
@@ -5038,6 +5743,7 @@
     {
       "id": 150,
       "name": "Captain Atom",
+      "slug": "150-captain-atom",
       "powerstats": {
         "intelligence": 81,
         "strength": 93,
@@ -5091,6 +5797,7 @@
     {
       "id": 151,
       "name": "Captain Britain",
+      "slug": "151-captain-britain",
       "powerstats": {
         "intelligence": 75,
         "strength": 77,
@@ -5146,6 +5853,7 @@
     {
       "id": 152,
       "name": "Captain Cold",
+      "slug": "152-captain-cold",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -5202,6 +5910,7 @@
     {
       "id": 154,
       "name": "Captain Hindsight",
+      "slug": "154-captain-hindsight",
       "powerstats": {
         "intelligence": 25,
         "strength": 10,
@@ -5253,6 +5962,7 @@
     {
       "id": 156,
       "name": "Captain Marvel",
+      "slug": "156-captain-marvel",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -5307,6 +6017,7 @@
     {
       "id": 157,
       "name": "Captain Marvel",
+      "slug": "157-captain-marvel",
       "powerstats": {
         "intelligence": 84,
         "strength": 88,
@@ -5362,6 +6073,7 @@
     {
       "id": 158,
       "name": "Captain Marvel II",
+      "slug": "158-captain-marvel-ii",
       "powerstats": {
         "intelligence": 75,
         "strength": 81,
@@ -5414,6 +6126,7 @@
     {
       "id": 160,
       "name": "Captain Planet",
+      "slug": "160-captain-planet",
       "powerstats": {
         "intelligence": 50,
         "strength": 88,
@@ -5467,6 +6180,7 @@
     {
       "id": 162,
       "name": "Carnage",
+      "slug": "162-carnage",
       "powerstats": {
         "intelligence": 63,
         "strength": 63,
@@ -5519,6 +6233,7 @@
     {
       "id": 165,
       "name": "Catwoman",
+      "slug": "165-catwoman",
       "powerstats": {
         "intelligence": 69,
         "strength": 11,
@@ -5575,6 +6290,7 @@
     {
       "id": 167,
       "name": "Century",
+      "slug": "167-century",
       "powerstats": {
         "intelligence": 88,
         "strength": 80,
@@ -5626,6 +6342,7 @@
     {
       "id": 169,
       "name": "Chamber",
+      "slug": "169-chamber",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -5679,6 +6396,7 @@
     {
       "id": 170,
       "name": "Chameleon",
+      "slug": "170-chameleon",
       "powerstats": {
         "intelligence": 88,
         "strength": 10,
@@ -5739,6 +6457,7 @@
     {
       "id": 171,
       "name": "Changeling",
+      "slug": "171-changeling",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -5791,6 +6510,7 @@
     {
       "id": 172,
       "name": "Cheetah",
+      "slug": "172-cheetah",
       "powerstats": {
         "intelligence": 38,
         "strength": 8,
@@ -5843,6 +6563,7 @@
     {
       "id": 174,
       "name": "Cheetah III",
+      "slug": "174-cheetah-iii",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -5898,6 +6619,7 @@
     {
       "id": 176,
       "name": "Chuck Norris",
+      "slug": "176-chuck-norris",
       "powerstats": {
         "intelligence": 50,
         "strength": 80,
@@ -5949,6 +6671,7 @@
     {
       "id": 177,
       "name": "Citizen Steel",
+      "slug": "177-citizen-steel",
       "powerstats": {
         "intelligence": 50,
         "strength": 95,
@@ -6002,6 +6725,7 @@
     {
       "id": 178,
       "name": "Claire Bennet",
+      "slug": "178-claire-bennet",
       "powerstats": {
         "intelligence": 38,
         "strength": 9,
@@ -6054,6 +6778,7 @@
     {
       "id": 180,
       "name": "Cloak",
+      "slug": "180-cloak",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -6105,6 +6830,7 @@
     {
       "id": 181,
       "name": "Clock King",
+      "slug": "181-clock-king",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -6156,6 +6882,7 @@
     {
       "id": 185,
       "name": "Colossus",
+      "slug": "185-colossus",
       "powerstats": {
         "intelligence": 63,
         "strength": 83,
@@ -6210,6 +6937,7 @@
     {
       "id": 186,
       "name": "Copycat",
+      "slug": "186-copycat",
       "powerstats": {
         "intelligence": 56,
         "strength": 10,
@@ -6270,6 +6998,7 @@
     {
       "id": 188,
       "name": "Cottonmouth",
+      "slug": "188-cottonmouth",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -6321,6 +7050,7 @@
     {
       "id": 191,
       "name": "Crystal",
+      "slug": "191-crystal",
       "powerstats": {
         "intelligence": 63,
         "strength": 16,
@@ -6373,6 +7103,7 @@
     {
       "id": 194,
       "name": "Cyborg",
+      "slug": "194-cyborg",
       "powerstats": {
         "intelligence": 75,
         "strength": 53,
@@ -6426,6 +7157,7 @@
     {
       "id": 195,
       "name": "Cyborg Superman",
+      "slug": "195-cyborg-superman",
       "powerstats": {
         "intelligence": 75,
         "strength": 93,
@@ -6479,6 +7211,7 @@
     {
       "id": 196,
       "name": "Cyclops",
+      "slug": "196-cyclops",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -6538,6 +7271,7 @@
     {
       "id": 198,
       "name": "Dagger",
+      "slug": "198-dagger",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -6589,6 +7323,7 @@
     {
       "id": 200,
       "name": "Daphne Powell",
+      "slug": "200-daphne-powell",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -6640,6 +7375,7 @@
     {
       "id": 201,
       "name": "Daredevil",
+      "slug": "201-daredevil",
       "powerstats": {
         "intelligence": 75,
         "strength": 13,
@@ -6705,6 +7441,7 @@
     {
       "id": 202,
       "name": "Darkhawk",
+      "slug": "202-darkhawk",
       "powerstats": {
         "intelligence": 50,
         "strength": 32,
@@ -6758,6 +7495,7 @@
     {
       "id": 203,
       "name": "Darkman",
+      "slug": "203-darkman",
       "powerstats": {
         "intelligence": 75,
         "strength": 14,
@@ -6809,6 +7547,7 @@
     {
       "id": 204,
       "name": "Darkseid",
+      "slug": "204-darkseid",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -6860,6 +7599,7 @@
     {
       "id": 206,
       "name": "Darkstar",
+      "slug": "206-darkstar",
       "powerstats": {
         "intelligence": 38,
         "strength": 8,
@@ -6911,6 +7651,7 @@
     {
       "id": 207,
       "name": "Darth Maul",
+      "slug": "207-darth-maul",
       "powerstats": {
         "intelligence": 56,
         "strength": 48,
@@ -6963,6 +7704,7 @@
     {
       "id": 208,
       "name": "Darth Vader",
+      "slug": "208-darth-vader",
       "powerstats": {
         "intelligence": 69,
         "strength": 48,
@@ -7014,6 +7756,7 @@
     {
       "id": 209,
       "name": "Dash",
+      "slug": "209-dash",
       "powerstats": {
         "intelligence": 25,
         "strength": 12,
@@ -7066,6 +7809,7 @@
     {
       "id": 210,
       "name": "Data",
+      "slug": "210-data",
       "powerstats": {
         "intelligence": 100,
         "strength": 32,
@@ -7117,6 +7861,7 @@
     {
       "id": 211,
       "name": "Dazzler",
+      "slug": "211-dazzler",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -7173,6 +7918,7 @@
     {
       "id": 212,
       "name": "Deadman",
+      "slug": "212-deadman",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -7224,6 +7970,7 @@
     {
       "id": 213,
       "name": "Deadpool",
+      "slug": "213-deadpool",
       "powerstats": {
         "intelligence": 69,
         "strength": 32,
@@ -7283,6 +8030,7 @@
     {
       "id": 214,
       "name": "Deadshot",
+      "slug": "214-deadshot",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -7336,6 +8084,7 @@
     {
       "id": 215,
       "name": "Deathlok",
+      "slug": "215-deathlok",
       "powerstats": {
         "intelligence": 69,
         "strength": 32,
@@ -7387,6 +8136,7 @@
     {
       "id": 216,
       "name": "Deathstroke",
+      "slug": "216-deathstroke",
       "powerstats": {
         "intelligence": 75,
         "strength": 30,
@@ -7440,6 +8190,7 @@
     {
       "id": 217,
       "name": "Demogoblin",
+      "slug": "217-demogoblin",
       "powerstats": {
         "intelligence": 50,
         "strength": 48,
@@ -7491,6 +8242,7 @@
     {
       "id": 218,
       "name": "Destroyer",
+      "slug": "218-destroyer",
       "powerstats": {
         "intelligence": 50,
         "strength": 95,
@@ -7542,6 +8294,7 @@
     {
       "id": 219,
       "name": "Diamondback",
+      "slug": "219-diamondback",
       "powerstats": {
         "intelligence": 44,
         "strength": 16,
@@ -7593,6 +8346,7 @@
     {
       "id": 220,
       "name": "DL Hawkins",
+      "slug": "220-dl-hawkins",
       "powerstats": {
         "intelligence": 50,
         "strength": 12,
@@ -7644,6 +8398,7 @@
     {
       "id": 221,
       "name": "Doc Samson",
+      "slug": "221-doc-samson",
       "powerstats": {
         "intelligence": 75,
         "strength": 80,
@@ -7695,6 +8450,7 @@
     {
       "id": 222,
       "name": "Doctor Doom",
+      "slug": "222-doctor-doom",
       "powerstats": {
         "intelligence": 100,
         "strength": 32,
@@ -7747,6 +8503,7 @@
     {
       "id": 224,
       "name": "Doctor Fate",
+      "slug": "224-doctor-fate",
       "powerstats": {
         "intelligence": 81,
         "strength": 16,
@@ -7798,6 +8555,7 @@
     {
       "id": 225,
       "name": "Doctor Octopus",
+      "slug": "225-doctor-octopus",
       "powerstats": {
         "intelligence": 94,
         "strength": 48,
@@ -7856,6 +8614,7 @@
     {
       "id": 226,
       "name": "Doctor Strange",
+      "slug": "226-doctor-strange",
       "powerstats": {
         "intelligence": 100,
         "strength": 10,
@@ -7911,6 +8670,7 @@
     {
       "id": 227,
       "name": "Domino",
+      "slug": "227-domino",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -7971,6 +8731,7 @@
     {
       "id": 228,
       "name": "Donatello",
+      "slug": "228-donatello",
       "powerstats": {
         "intelligence": 88,
         "strength": 14,
@@ -8023,6 +8784,7 @@
     {
       "id": 230,
       "name": "Doomsday",
+      "slug": "230-doomsday",
       "powerstats": {
         "intelligence": 75,
         "strength": 100,
@@ -8074,6 +8836,7 @@
     {
       "id": 231,
       "name": "Doppelganger",
+      "slug": "231-doppelganger",
       "powerstats": {
         "intelligence": 8,
         "strength": 63,
@@ -8127,6 +8890,7 @@
     {
       "id": 232,
       "name": "Dormammu",
+      "slug": "232-dormammu",
       "powerstats": {
         "intelligence": 88,
         "strength": 95,
@@ -8183,6 +8947,7 @@
     {
       "id": 233,
       "name": "Dr Manhattan",
+      "slug": "233-dr-manhattan",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -8235,6 +9000,7 @@
     {
       "id": 234,
       "name": "Drax the Destroyer",
+      "slug": "234-drax-the-destroyer",
       "powerstats": {
         "intelligence": 56,
         "strength": 80,
@@ -8286,6 +9052,7 @@
     {
       "id": 235,
       "name": "Ego",
+      "slug": "235-ego",
       "powerstats": {
         "intelligence": 88,
         "strength": 80,
@@ -8337,6 +9104,7 @@
     {
       "id": 236,
       "name": "Elastigirl",
+      "slug": "236-elastigirl",
       "powerstats": {
         "intelligence": 63,
         "strength": 32,
@@ -8388,6 +9156,7 @@
     {
       "id": 237,
       "name": "Electro",
+      "slug": "237-electro",
       "powerstats": {
         "intelligence": 69,
         "strength": 10,
@@ -8439,6 +9208,7 @@
     {
       "id": 238,
       "name": "Elektra",
+      "slug": "238-elektra",
       "powerstats": {
         "intelligence": 63,
         "strength": 11,
@@ -8490,6 +9260,7 @@
     {
       "id": 239,
       "name": "Elle Bishop",
+      "slug": "239-elle-bishop",
       "powerstats": {
         "intelligence": 50,
         "strength": 8,
@@ -8541,6 +9312,7 @@
     {
       "id": 240,
       "name": "Elongated Man",
+      "slug": "240-elongated-man",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -8592,6 +9364,7 @@
     {
       "id": 241,
       "name": "Emma Frost",
+      "slug": "241-emma-frost",
       "powerstats": {
         "intelligence": 75,
         "strength": 63,
@@ -8644,6 +9417,7 @@
     {
       "id": 242,
       "name": "Enchantress",
+      "slug": "242-enchantress",
       "powerstats": {
         "intelligence": 63,
         "strength": 14,
@@ -8696,6 +9470,7 @@
     {
       "id": 245,
       "name": "Ethan Hunt",
+      "slug": "245-ethan-hunt",
       "powerstats": {
         "intelligence": 75,
         "strength": 11,
@@ -8747,6 +9522,7 @@
     {
       "id": 246,
       "name": "Etrigan",
+      "slug": "246-etrigan",
       "powerstats": {
         "intelligence": 50,
         "strength": 85,
@@ -8798,6 +9574,7 @@
     {
       "id": 247,
       "name": "Evil Deadpool",
+      "slug": "247-evil-deadpool",
       "powerstats": {
         "intelligence": 69,
         "strength": 32,
@@ -8849,6 +9626,7 @@
     {
       "id": 248,
       "name": "Evilhawk",
+      "slug": "248-evilhawk",
       "powerstats": {
         "intelligence": 50,
         "strength": 32,
@@ -8900,6 +9678,7 @@
     {
       "id": 249,
       "name": "Exodus",
+      "slug": "249-exodus",
       "powerstats": {
         "intelligence": 63,
         "strength": 81,
@@ -8951,6 +9730,7 @@
     {
       "id": 251,
       "name": "Falcon",
+      "slug": "251-falcon",
       "powerstats": {
         "intelligence": 38,
         "strength": 13,
@@ -9006,6 +9786,7 @@
     {
       "id": 252,
       "name": "Fallen One II",
+      "slug": "252-fallen-one-ii",
       "powerstats": {
         "intelligence": 88,
         "strength": 85,
@@ -9057,6 +9838,7 @@
     {
       "id": 253,
       "name": "Faora",
+      "slug": "253-faora",
       "powerstats": {
         "intelligence": 88,
         "strength": 95,
@@ -9108,6 +9890,7 @@
     {
       "id": 254,
       "name": "Feral",
+      "slug": "254-feral",
       "powerstats": {
         "intelligence": 38,
         "strength": 28,
@@ -9159,6 +9942,7 @@
     {
       "id": 256,
       "name": "Fin Fang Foom",
+      "slug": "256-fin-fang-foom",
       "powerstats": {
         "intelligence": 50,
         "strength": 81,
@@ -9210,6 +9994,7 @@
     {
       "id": 257,
       "name": "Firebird",
+      "slug": "257-firebird",
       "powerstats": {
         "intelligence": 38,
         "strength": 8,
@@ -9263,6 +10048,7 @@
     {
       "id": 258,
       "name": "Firelord",
+      "slug": "258-firelord",
       "powerstats": {
         "intelligence": 38,
         "strength": 63,
@@ -9314,6 +10100,7 @@
     {
       "id": 259,
       "name": "Firestar",
+      "slug": "259-firestar",
       "powerstats": {
         "intelligence": 50,
         "strength": 8,
@@ -9367,6 +10154,7 @@
     {
       "id": 260,
       "name": "Firestorm",
+      "slug": "260-firestorm",
       "powerstats": {
         "intelligence": 50,
         "strength": 53,
@@ -9418,6 +10206,7 @@
     {
       "id": 261,
       "name": "Firestorm",
+      "slug": "261-firestorm",
       "powerstats": {
         "intelligence": 38,
         "strength": 80,
@@ -9472,6 +10261,7 @@
     {
       "id": 263,
       "name": "Flash",
+      "slug": "263-flash",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -9524,6 +10314,7 @@
     {
       "id": 265,
       "name": "Flash II",
+      "slug": "265-flash-ii",
       "powerstats": {
         "intelligence": 88,
         "strength": 48,
@@ -9578,6 +10369,7 @@
     {
       "id": 266,
       "name": "Flash III",
+      "slug": "266-flash-iii",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -9631,6 +10423,7 @@
     {
       "id": 267,
       "name": "Flash IV",
+      "slug": "267-flash-iv",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -9683,6 +10476,7 @@
     {
       "id": 268,
       "name": "Forge",
+      "slug": "268-forge",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -9735,6 +10529,7 @@
     {
       "id": 269,
       "name": "Franklin Richards",
+      "slug": "269-franklin-richards",
       "powerstats": {
         "intelligence": 63,
         "strength": 80,
@@ -9790,6 +10585,7 @@
     {
       "id": 270,
       "name": "Franklin Storm",
+      "slug": "270-franklin-storm",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -9841,6 +10637,7 @@
     {
       "id": 271,
       "name": "Frenzy",
+      "slug": "271-frenzy",
       "powerstats": {
         "intelligence": 63,
         "strength": 53,
@@ -9892,6 +10689,7 @@
     {
       "id": 273,
       "name": "Galactus",
+      "slug": "273-galactus",
       "powerstats": {
         "intelligence": 100,
         "strength": 100,
@@ -9946,6 +10744,7 @@
     {
       "id": 274,
       "name": "Gambit",
+      "slug": "274-gambit",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -10000,6 +10799,7 @@
     {
       "id": 275,
       "name": "Gamora",
+      "slug": "275-gamora",
       "powerstats": {
         "intelligence": 75,
         "strength": 85,
@@ -10052,6 +10852,7 @@
     {
       "id": 277,
       "name": "Gary Bell",
+      "slug": "277-gary-bell",
       "powerstats": {
         "intelligence": 63,
         "strength": 5,
@@ -10103,6 +10904,7 @@
     {
       "id": 278,
       "name": "General Zod",
+      "slug": "278-general-zod",
       "powerstats": {
         "intelligence": 94,
         "strength": 100,
@@ -10154,6 +10956,7 @@
     {
       "id": 280,
       "name": "Ghost Rider",
+      "slug": "280-ghost-rider",
       "powerstats": {
         "intelligence": 50,
         "strength": 55,
@@ -10205,6 +11008,7 @@
     {
       "id": 284,
       "name": "Giganta",
+      "slug": "284-giganta",
       "powerstats": {
         "intelligence": 81,
         "strength": 89,
@@ -10256,6 +11060,7 @@
     {
       "id": 285,
       "name": "Gladiator",
+      "slug": "285-gladiator",
       "powerstats": {
         "intelligence": 50,
         "strength": 100,
@@ -10309,6 +11114,7 @@
     {
       "id": 286,
       "name": "Goblin Queen",
+      "slug": "286-goblin-queen",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -10364,6 +11170,7 @@
     {
       "id": 287,
       "name": "Godzilla",
+      "slug": "287-godzilla",
       "powerstats": {
         "intelligence": 44,
         "strength": 100,
@@ -10420,6 +11227,7 @@
     {
       "id": 288,
       "name": "Gog",
+      "slug": "288-gog",
       "powerstats": {
         "intelligence": 50,
         "strength": 34,
@@ -10472,6 +11280,7 @@
     {
       "id": 289,
       "name": "Goku",
+      "slug": "289-goku",
       "powerstats": {
         "intelligence": 56,
         "strength": 100,
@@ -10529,6 +11338,7 @@
     {
       "id": 294,
       "name": "Gorilla Grodd",
+      "slug": "294-gorilla-grodd",
       "powerstats": {
         "intelligence": 81,
         "strength": 53,
@@ -10583,6 +11393,7 @@
     {
       "id": 296,
       "name": "Gravity",
+      "slug": "296-gravity",
       "powerstats": {
         "intelligence": 50,
         "strength": 32,
@@ -10634,6 +11445,7 @@
     {
       "id": 297,
       "name": "Greedo",
+      "slug": "297-greedo",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -10685,6 +11497,7 @@
     {
       "id": 298,
       "name": "Green Arrow",
+      "slug": "298-green-arrow",
       "powerstats": {
         "intelligence": 81,
         "strength": 12,
@@ -10737,6 +11550,7 @@
     {
       "id": 299,
       "name": "Green Goblin",
+      "slug": "299-green-goblin",
       "powerstats": {
         "intelligence": 100,
         "strength": 48,
@@ -10797,6 +11611,7 @@
     {
       "id": 300,
       "name": "Green Goblin II",
+      "slug": "300-green-goblin-ii",
       "powerstats": {
         "intelligence": 75,
         "strength": 55,
@@ -10848,6 +11663,7 @@
     {
       "id": 303,
       "name": "Groot",
+      "slug": "303-groot",
       "powerstats": {
         "intelligence": 75,
         "strength": 85,
@@ -10903,6 +11719,7 @@
     {
       "id": 305,
       "name": "Guy Gardner",
+      "slug": "305-guy-gardner",
       "powerstats": {
         "intelligence": 38,
         "strength": 90,
@@ -10956,6 +11773,7 @@
     {
       "id": 306,
       "name": "Hal Jordan",
+      "slug": "306-hal-jordan",
       "powerstats": {
         "intelligence": 69,
         "strength": 90,
@@ -11009,6 +11827,7 @@
     {
       "id": 307,
       "name": "Han Solo",
+      "slug": "307-han-solo",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -11060,6 +11879,7 @@
     {
       "id": 308,
       "name": "Hancock",
+      "slug": "308-hancock",
       "powerstats": {
         "intelligence": 63,
         "strength": 90,
@@ -11111,6 +11931,7 @@
     {
       "id": 309,
       "name": "Harley Quinn",
+      "slug": "309-harley-quinn",
       "powerstats": {
         "intelligence": 88,
         "strength": 12,
@@ -11167,6 +11988,7 @@
     {
       "id": 310,
       "name": "Harry Potter",
+      "slug": "310-harry-potter",
       "powerstats": {
         "intelligence": 75,
         "strength": 7,
@@ -11222,6 +12044,7 @@
     {
       "id": 311,
       "name": "Havok",
+      "slug": "311-havok",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -11274,6 +12097,7 @@
     {
       "id": 312,
       "name": "Hawk",
+      "slug": "312-hawk",
       "powerstats": {
         "intelligence": 38,
         "strength": 38,
@@ -11326,6 +12150,7 @@
     {
       "id": 313,
       "name": "Hawkeye",
+      "slug": "313-hawkeye",
       "powerstats": {
         "intelligence": 56,
         "strength": 12,
@@ -11382,6 +12207,7 @@
     {
       "id": 314,
       "name": "Hawkeye II",
+      "slug": "314-hawkeye-ii",
       "powerstats": {
         "intelligence": 50,
         "strength": 6,
@@ -11433,6 +12259,7 @@
     {
       "id": 315,
       "name": "Hawkgirl",
+      "slug": "315-hawkgirl",
       "powerstats": {
         "intelligence": 50,
         "strength": 28,
@@ -11485,6 +12312,7 @@
     {
       "id": 320,
       "name": "Heat Wave",
+      "slug": "320-heat-wave",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -11536,6 +12364,7 @@
     {
       "id": 321,
       "name": "Hela",
+      "slug": "321-hela",
       "powerstats": {
         "intelligence": 63,
         "strength": 100,
@@ -11587,6 +12416,7 @@
     {
       "id": 322,
       "name": "Hellboy",
+      "slug": "322-hellboy",
       "powerstats": {
         "intelligence": 63,
         "strength": 53,
@@ -11639,6 +12469,7 @@
     {
       "id": 323,
       "name": "Hellcat",
+      "slug": "323-hellcat",
       "powerstats": {
         "intelligence": 63,
         "strength": 11,
@@ -11692,6 +12523,7 @@
     {
       "id": 325,
       "name": "Hercules",
+      "slug": "325-hercules",
       "powerstats": {
         "intelligence": 63,
         "strength": 100,
@@ -11753,6 +12585,7 @@
     {
       "id": 327,
       "name": "Hit-Girl",
+      "slug": "327-hit-girl",
       "powerstats": {
         "intelligence": 56,
         "strength": 7,
@@ -11805,6 +12638,7 @@
     {
       "id": 330,
       "name": "Hope Summers",
+      "slug": "330-hope-summers",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -11861,6 +12695,7 @@
     {
       "id": 332,
       "name": "Hulk",
+      "slug": "332-hulk",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -11919,6 +12754,7 @@
     {
       "id": 333,
       "name": "Human Torch",
+      "slug": "333-human-torch",
       "powerstats": {
         "intelligence": 63,
         "strength": 11,
@@ -11971,6 +12807,7 @@
     {
       "id": 334,
       "name": "Huntress",
+      "slug": "334-huntress",
       "powerstats": {
         "intelligence": 69,
         "strength": 10,
@@ -12024,6 +12861,7 @@
     {
       "id": 335,
       "name": "Husk",
+      "slug": "335-husk",
       "powerstats": {
         "intelligence": 63,
         "strength": 63,
@@ -12075,6 +12913,7 @@
     {
       "id": 336,
       "name": "Hybrid",
+      "slug": "336-hybrid",
       "powerstats": {
         "intelligence": 63,
         "strength": 63,
@@ -12130,6 +12969,7 @@
     {
       "id": 337,
       "name": "Hydro-Man",
+      "slug": "337-hydro-man",
       "powerstats": {
         "intelligence": 38,
         "strength": 13,
@@ -12181,6 +13021,7 @@
     {
       "id": 338,
       "name": "Hyperion",
+      "slug": "338-hyperion",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -12235,6 +13076,7 @@
     {
       "id": 339,
       "name": "Iceman",
+      "slug": "339-iceman",
       "powerstats": {
         "intelligence": 63,
         "strength": 32,
@@ -12291,6 +13133,7 @@
     {
       "id": 340,
       "name": "Impulse",
+      "slug": "340-impulse",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -12343,6 +13186,7 @@
     {
       "id": 341,
       "name": "Indiana Jones",
+      "slug": "341-indiana-jones",
       "powerstats": {
         "intelligence": 69,
         "strength": 10,
@@ -12394,6 +13238,7 @@
     {
       "id": 342,
       "name": "Indigo",
+      "slug": "342-indigo",
       "powerstats": {
         "intelligence": 75,
         "strength": 63,
@@ -12445,6 +13290,7 @@
     {
       "id": 343,
       "name": "Ink",
+      "slug": "343-ink",
       "powerstats": {
         "intelligence": 38,
         "strength": 28,
@@ -12496,6 +13342,7 @@
     {
       "id": 344,
       "name": "Invisible Woman",
+      "slug": "344-invisible-woman",
       "powerstats": {
         "intelligence": 88,
         "strength": 10,
@@ -12547,6 +13394,7 @@
     {
       "id": 345,
       "name": "Iron Fist",
+      "slug": "345-iron-fist",
       "powerstats": {
         "intelligence": 75,
         "strength": 55,
@@ -12602,6 +13450,7 @@
     {
       "id": 346,
       "name": "Iron Man",
+      "slug": "346-iron-man",
       "powerstats": {
         "intelligence": 100,
         "strength": 85,
@@ -12658,6 +13507,7 @@
     {
       "id": 347,
       "name": "Iron Monger",
+      "slug": "347-iron-monger",
       "powerstats": {
         "intelligence": 88,
         "strength": 63,
@@ -12709,6 +13559,7 @@
     {
       "id": 348,
       "name": "Isis",
+      "slug": "348-isis",
       "powerstats": {
         "intelligence": 75,
         "strength": 48,
@@ -12760,6 +13611,7 @@
     {
       "id": 350,
       "name": "Jack of Hearts",
+      "slug": "350-jack-of-hearts",
       "powerstats": {
         "intelligence": 63,
         "strength": 55,
@@ -12811,6 +13663,7 @@
     {
       "id": 351,
       "name": "Jack-Jack",
+      "slug": "351-jack-jack",
       "powerstats": {
         "intelligence": 6,
         "strength": 34,
@@ -12862,6 +13715,7 @@
     {
       "id": 352,
       "name": "James Bond",
+      "slug": "352-james-bond",
       "powerstats": {
         "intelligence": 88,
         "strength": 13,
@@ -12914,6 +13768,7 @@
     {
       "id": 353,
       "name": "James T. Kirk",
+      "slug": "353-james-t.-kirk",
       "powerstats": {
         "intelligence": 69,
         "strength": 11,
@@ -12966,6 +13821,7 @@
     {
       "id": 354,
       "name": "Jar Jar Binks",
+      "slug": "354-jar-jar-binks",
       "powerstats": {
         "intelligence": 10,
         "strength": 6,
@@ -13017,6 +13873,7 @@
     {
       "id": 355,
       "name": "Jason Bourne",
+      "slug": "355-jason-bourne",
       "powerstats": {
         "intelligence": 88,
         "strength": 12,
@@ -13068,6 +13925,7 @@
     {
       "id": 356,
       "name": "Jean Grey",
+      "slug": "356-jean-grey",
       "powerstats": {
         "intelligence": 94,
         "strength": 80,
@@ -13120,6 +13978,7 @@
     {
       "id": 357,
       "name": "Jean-Luc Picard",
+      "slug": "357-jean-luc-picard",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -13171,6 +14030,7 @@
     {
       "id": 358,
       "name": "Jennifer Kale",
+      "slug": "358-jennifer-kale",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -13222,6 +14082,7 @@
     {
       "id": 360,
       "name": "Jessica Cruz",
+      "slug": "360-jessica-cruz",
       "powerstats": {
         "intelligence": 56,
         "strength": 90,
@@ -13274,6 +14135,7 @@
     {
       "id": 361,
       "name": "Jessica Jones",
+      "slug": "361-jessica-jones",
       "powerstats": {
         "intelligence": 56,
         "strength": 44,
@@ -13328,6 +14190,7 @@
     {
       "id": 364,
       "name": "Jim Powell",
+      "slug": "364-jim-powell",
       "powerstats": {
         "intelligence": 38,
         "strength": 38,
@@ -13379,6 +14242,7 @@
     {
       "id": 365,
       "name": "JJ Powell",
+      "slug": "365-jj-powell",
       "powerstats": {
         "intelligence": 88,
         "strength": 10,
@@ -13430,6 +14294,7 @@
     {
       "id": 367,
       "name": "John Constantine",
+      "slug": "367-john-constantine",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -13481,6 +14346,7 @@
     {
       "id": 369,
       "name": "John Wraith",
+      "slug": "369-john-wraith",
       "powerstats": {
         "intelligence": 75,
         "strength": 12,
@@ -13536,6 +14402,7 @@
     {
       "id": 370,
       "name": "Joker",
+      "slug": "370-joker",
       "powerstats": {
         "intelligence": 100,
         "strength": 10,
@@ -13592,6 +14459,7 @@
     {
       "id": 371,
       "name": "Jolt",
+      "slug": "371-jolt",
       "powerstats": {
         "intelligence": 63,
         "strength": 12,
@@ -13644,6 +14512,7 @@
     {
       "id": 372,
       "name": "Jubilee",
+      "slug": "372-jubilee",
       "powerstats": {
         "intelligence": 56,
         "strength": 8,
@@ -13695,6 +14564,7 @@
     {
       "id": 373,
       "name": "Judge Dredd",
+      "slug": "373-judge-dredd",
       "powerstats": {
         "intelligence": 75,
         "strength": 18,
@@ -13747,6 +14617,7 @@
     {
       "id": 374,
       "name": "Juggernaut",
+      "slug": "374-juggernaut",
       "powerstats": {
         "intelligence": 44,
         "strength": 100,
@@ -13799,6 +14670,7 @@
     {
       "id": 375,
       "name": "Junkpile",
+      "slug": "375-junkpile",
       "powerstats": {
         "intelligence": 50,
         "strength": 38,
@@ -13850,6 +14722,7 @@
     {
       "id": 376,
       "name": "Justice",
+      "slug": "376-justice",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -13905,6 +14778,7 @@
     {
       "id": 379,
       "name": "Kang",
+      "slug": "379-kang",
       "powerstats": {
         "intelligence": 100,
         "strength": 48,
@@ -13963,6 +14837,7 @@
     {
       "id": 380,
       "name": "Kathryn Janeway",
+      "slug": "380-kathryn-janeway",
       "powerstats": {
         "intelligence": 75,
         "strength": 8,
@@ -14014,6 +14889,7 @@
     {
       "id": 381,
       "name": "Katniss Everdeen",
+      "slug": "381-katniss-everdeen",
       "powerstats": {
         "intelligence": 56,
         "strength": 8,
@@ -14065,6 +14941,7 @@
     {
       "id": 382,
       "name": "Kevin 11",
+      "slug": "382-kevin-11",
       "powerstats": {
         "intelligence": 25,
         "strength": 7,
@@ -14125,6 +15002,7 @@
     {
       "id": 383,
       "name": "Kick-Ass",
+      "slug": "383-kick-ass",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -14176,6 +15054,7 @@
     {
       "id": 384,
       "name": "Kid Flash",
+      "slug": "384-kid-flash",
       "powerstats": {
         "intelligence": 25,
         "strength": 4,
@@ -14227,6 +15106,7 @@
     {
       "id": 386,
       "name": "Killer Croc",
+      "slug": "386-killer-croc",
       "powerstats": {
         "intelligence": 19,
         "strength": 53,
@@ -14278,6 +15158,7 @@
     {
       "id": 387,
       "name": "Killer Frost",
+      "slug": "387-killer-frost",
       "powerstats": {
         "intelligence": 88,
         "strength": 10,
@@ -14329,6 +15210,7 @@
     {
       "id": 388,
       "name": "Kilowog",
+      "slug": "388-kilowog",
       "powerstats": {
         "intelligence": 81,
         "strength": 90,
@@ -14385,6 +15267,7 @@
     {
       "id": 389,
       "name": "King Kong",
+      "slug": "389-king-kong",
       "powerstats": {
         "intelligence": 56,
         "strength": 100,
@@ -14437,6 +15320,7 @@
     {
       "id": 390,
       "name": "King Shark",
+      "slug": "390-king-shark",
       "powerstats": {
         "intelligence": 50,
         "strength": 88,
@@ -14488,6 +15372,7 @@
     {
       "id": 391,
       "name": "Kingpin",
+      "slug": "391-kingpin",
       "powerstats": {
         "intelligence": 75,
         "strength": 18,
@@ -14541,6 +15426,7 @@
     {
       "id": 392,
       "name": "Klaw",
+      "slug": "392-klaw",
       "powerstats": {
         "intelligence": 63,
         "strength": 38,
@@ -14592,6 +15478,7 @@
     {
       "id": 393,
       "name": "Kool-Aid Man",
+      "slug": "393-kool-aid-man",
       "powerstats": {
         "intelligence": 25,
         "strength": 18,
@@ -14643,6 +15530,7 @@
     {
       "id": 394,
       "name": "Kraven II",
+      "slug": "394-kraven-ii",
       "powerstats": {
         "intelligence": 50,
         "strength": 34,
@@ -14694,6 +15582,7 @@
     {
       "id": 395,
       "name": "Kraven the Hunter",
+      "slug": "395-kraven-the-hunter",
       "powerstats": {
         "intelligence": 63,
         "strength": 32,
@@ -14747,6 +15636,7 @@
     {
       "id": 396,
       "name": "Krypto",
+      "slug": "396-krypto",
       "powerstats": {
         "intelligence": 9,
         "strength": 80,
@@ -14798,6 +15688,7 @@
     {
       "id": 397,
       "name": "Kyle Rayner",
+      "slug": "397-kyle-rayner",
       "powerstats": {
         "intelligence": 69,
         "strength": 90,
@@ -14854,6 +15745,7 @@
     {
       "id": 398,
       "name": "Kylo Ren",
+      "slug": "398-kylo-ren",
       "powerstats": {
         "intelligence": 56,
         "strength": 44,
@@ -14905,6 +15797,7 @@
     {
       "id": 400,
       "name": "Lady Deathstrike",
+      "slug": "400-lady-deathstrike",
       "powerstats": {
         "intelligence": 63,
         "strength": 28,
@@ -14956,6 +15849,7 @@
     {
       "id": 401,
       "name": "Leader",
+      "slug": "401-leader",
       "powerstats": {
         "intelligence": 100,
         "strength": 10,
@@ -15007,6 +15901,7 @@
     {
       "id": 402,
       "name": "Leech",
+      "slug": "402-leech",
       "powerstats": {
         "intelligence": 25,
         "strength": 5,
@@ -15058,6 +15953,7 @@
     {
       "id": 403,
       "name": "Legion",
+      "slug": "403-legion",
       "powerstats": {
         "intelligence": 50,
         "strength": 100,
@@ -15121,6 +16017,7 @@
     {
       "id": 404,
       "name": "Leonardo",
+      "slug": "404-leonardo",
       "powerstats": {
         "intelligence": 75,
         "strength": 16,
@@ -15174,6 +16071,7 @@
     {
       "id": 405,
       "name": "Lex Luthor",
+      "slug": "405-lex-luthor",
       "powerstats": {
         "intelligence": 100,
         "strength": 53,
@@ -15225,6 +16123,7 @@
     {
       "id": 406,
       "name": "Light Lass",
+      "slug": "406-light-lass",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -15276,6 +16175,7 @@
     {
       "id": 407,
       "name": "Lightning Lad",
+      "slug": "407-lightning-lad",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -15328,6 +16228,7 @@
     {
       "id": 408,
       "name": "Lightning Lord",
+      "slug": "408-lightning-lord",
       "powerstats": {
         "intelligence": 44,
         "strength": 10,
@@ -15379,6 +16280,7 @@
     {
       "id": 409,
       "name": "Living Brain",
+      "slug": "409-living-brain",
       "powerstats": {
         "intelligence": 75,
         "strength": 53,
@@ -15430,6 +16332,7 @@
     {
       "id": 410,
       "name": "Living Tribunal",
+      "slug": "410-living-tribunal",
       "powerstats": {
         "intelligence": 100,
         "strength": 100,
@@ -15484,6 +16387,7 @@
     {
       "id": 412,
       "name": "Lizard",
+      "slug": "412-lizard",
       "powerstats": {
         "intelligence": 50,
         "strength": 51,
@@ -15535,6 +16439,7 @@
     {
       "id": 413,
       "name": "Lobo",
+      "slug": "413-lobo",
       "powerstats": {
         "intelligence": 94,
         "strength": 100,
@@ -15590,6 +16495,7 @@
     {
       "id": 414,
       "name": "Loki",
+      "slug": "414-loki",
       "powerstats": {
         "intelligence": 88,
         "strength": 63,
@@ -15649,6 +16555,7 @@
     {
       "id": 415,
       "name": "Longshot",
+      "slug": "415-longshot",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -15701,6 +16608,7 @@
     {
       "id": 416,
       "name": "Luke Cage",
+      "slug": "416-luke-cage",
       "powerstats": {
         "intelligence": 50,
         "strength": 63,
@@ -15756,6 +16664,7 @@
     {
       "id": 418,
       "name": "Luke Skywalker",
+      "slug": "418-luke-skywalker",
       "powerstats": {
         "intelligence": 69,
         "strength": 38,
@@ -15809,6 +16718,7 @@
     {
       "id": 419,
       "name": "Luna",
+      "slug": "419-luna",
       "powerstats": {
         "intelligence": 38,
         "strength": 6,
@@ -15860,6 +16770,7 @@
     {
       "id": 421,
       "name": "Mach-IV",
+      "slug": "421-mach-iv",
       "powerstats": {
         "intelligence": 75,
         "strength": 36,
@@ -15915,6 +16826,7 @@
     {
       "id": 422,
       "name": "Machine Man",
+      "slug": "422-machine-man",
       "powerstats": {
         "intelligence": 63,
         "strength": 32,
@@ -15967,6 +16879,7 @@
     {
       "id": 423,
       "name": "Magneto",
+      "slug": "423-magneto",
       "powerstats": {
         "intelligence": 88,
         "strength": 80,
@@ -16022,6 +16935,7 @@
     {
       "id": 424,
       "name": "Magog",
+      "slug": "424-magog",
       "powerstats": {
         "intelligence": 50,
         "strength": 48,
@@ -16073,6 +16987,7 @@
     {
       "id": 425,
       "name": "Magus",
+      "slug": "425-magus",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -16124,6 +17039,7 @@
     {
       "id": 426,
       "name": "Man of Miracles",
+      "slug": "426-man-of-miracles",
       "powerstats": {
         "intelligence": 100,
         "strength": 100,
@@ -16175,6 +17091,7 @@
     {
       "id": 427,
       "name": "Man-Bat",
+      "slug": "427-man-bat",
       "powerstats": {
         "intelligence": 38,
         "strength": 18,
@@ -16226,6 +17143,7 @@
     {
       "id": 428,
       "name": "Man-Thing",
+      "slug": "428-man-thing",
       "powerstats": {
         "intelligence": 50,
         "strength": 32,
@@ -16277,6 +17195,7 @@
     {
       "id": 429,
       "name": "Man-Wolf",
+      "slug": "429-man-wolf",
       "powerstats": {
         "intelligence": 63,
         "strength": 44,
@@ -16330,6 +17249,7 @@
     {
       "id": 430,
       "name": "Mandarin",
+      "slug": "430-mandarin",
       "powerstats": {
         "intelligence": 100,
         "strength": 28,
@@ -16385,6 +17305,7 @@
     {
       "id": 431,
       "name": "Mantis",
+      "slug": "431-mantis",
       "powerstats": {
         "intelligence": 63,
         "strength": 8,
@@ -16440,6 +17361,7 @@
     {
       "id": 432,
       "name": "Martian Manhunter",
+      "slug": "432-martian-manhunter",
       "powerstats": {
         "intelligence": 100,
         "strength": 95,
@@ -16493,6 +17415,7 @@
     {
       "id": 433,
       "name": "Marvel Girl",
+      "slug": "433-marvel-girl",
       "powerstats": {
         "intelligence": 63,
         "strength": 85,
@@ -16548,6 +17471,7 @@
     {
       "id": 435,
       "name": "Master Chief",
+      "slug": "435-master-chief",
       "powerstats": {
         "intelligence": 75,
         "strength": 73,
@@ -16602,6 +17526,7 @@
     {
       "id": 436,
       "name": "Match",
+      "slug": "436-match",
       "powerstats": {
         "intelligence": 75,
         "strength": 95,
@@ -16654,6 +17579,7 @@
     {
       "id": 437,
       "name": "Matt Parkman",
+      "slug": "437-matt-parkman",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -16705,6 +17631,7 @@
     {
       "id": 438,
       "name": "Maverick",
+      "slug": "438-maverick",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -16757,6 +17684,7 @@
     {
       "id": 439,
       "name": "Maxima",
+      "slug": "439-maxima",
       "powerstats": {
         "intelligence": 75,
         "strength": 90,
@@ -16809,6 +17737,7 @@
     {
       "id": 440,
       "name": "Maya Herrera",
+      "slug": "440-maya-herrera",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -16860,6 +17789,7 @@
     {
       "id": 441,
       "name": "Medusa",
+      "slug": "441-medusa",
       "powerstats": {
         "intelligence": 75,
         "strength": 34,
@@ -16912,6 +17842,7 @@
     {
       "id": 442,
       "name": "Meltdown",
+      "slug": "442-meltdown",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -16968,6 +17899,7 @@
     {
       "id": 443,
       "name": "Mephisto",
+      "slug": "443-mephisto",
       "powerstats": {
         "intelligence": 88,
         "strength": 85,
@@ -17033,6 +17965,7 @@
     {
       "id": 444,
       "name": "Mera",
+      "slug": "444-mera",
       "powerstats": {
         "intelligence": 56,
         "strength": 62,
@@ -17087,6 +18020,7 @@
     {
       "id": 445,
       "name": "Metallo",
+      "slug": "445-metallo",
       "powerstats": {
         "intelligence": 75,
         "strength": 53,
@@ -17138,6 +18072,7 @@
     {
       "id": 448,
       "name": "Metron",
+      "slug": "448-metron",
       "powerstats": {
         "intelligence": 88,
         "strength": 10,
@@ -17189,6 +18124,7 @@
     {
       "id": 449,
       "name": "Micah Sanders",
+      "slug": "449-micah-sanders",
       "powerstats": {
         "intelligence": 63,
         "strength": 8,
@@ -17240,6 +18176,7 @@
     {
       "id": 450,
       "name": "Michelangelo",
+      "slug": "450-michelangelo",
       "powerstats": {
         "intelligence": 63,
         "strength": 14,
@@ -17294,6 +18231,7 @@
     {
       "id": 451,
       "name": "Micro Lad",
+      "slug": "451-micro-lad",
       "powerstats": {
         "intelligence": 38,
         "strength": 28,
@@ -17346,6 +18284,7 @@
     {
       "id": 452,
       "name": "Mimic",
+      "slug": "452-mimic",
       "powerstats": {
         "intelligence": 63,
         "strength": 67,
@@ -17399,6 +18338,7 @@
     {
       "id": 454,
       "name": "Misfit",
+      "slug": "454-misfit",
       "powerstats": {
         "intelligence": 63,
         "strength": 32,
@@ -17450,6 +18390,7 @@
     {
       "id": 455,
       "name": "Miss Martian",
+      "slug": "455-miss-martian",
       "powerstats": {
         "intelligence": 63,
         "strength": 85,
@@ -17502,6 +18443,7 @@
     {
       "id": 456,
       "name": "Mister Fantastic",
+      "slug": "456-mister-fantastic",
       "powerstats": {
         "intelligence": 100,
         "strength": 10,
@@ -17553,6 +18495,7 @@
     {
       "id": 457,
       "name": "Mister Freeze",
+      "slug": "457-mister-freeze",
       "powerstats": {
         "intelligence": 75,
         "strength": 32,
@@ -17606,6 +18549,7 @@
     {
       "id": 458,
       "name": "Mister Knife",
+      "slug": "458-mister-knife",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -17660,6 +18604,7 @@
     {
       "id": 459,
       "name": "Mister Mxyzptlk",
+      "slug": "459-mister-mxyzptlk",
       "powerstats": {
         "intelligence": 100,
         "strength": 85,
@@ -17711,6 +18656,7 @@
     {
       "id": 460,
       "name": "Mister Sinister",
+      "slug": "460-mister-sinister",
       "powerstats": {
         "intelligence": 100,
         "strength": 48,
@@ -17773,6 +18719,7 @@
     {
       "id": 461,
       "name": "Mister Zsasz",
+      "slug": "461-mister-zsasz",
       "powerstats": {
         "intelligence": 88,
         "strength": 22,
@@ -17824,6 +18771,7 @@
     {
       "id": 462,
       "name": "Mockingbird",
+      "slug": "462-mockingbird",
       "powerstats": {
         "intelligence": 75,
         "strength": 31,
@@ -17879,6 +18827,7 @@
     {
       "id": 463,
       "name": "MODOK",
+      "slug": "463-modok",
       "powerstats": {
         "intelligence": 100,
         "strength": 18,
@@ -17931,6 +18880,7 @@
     {
       "id": 467,
       "name": "Molten Man",
+      "slug": "467-molten-man",
       "powerstats": {
         "intelligence": 50,
         "strength": 73,
@@ -17982,6 +18932,7 @@
     {
       "id": 469,
       "name": "Monica Dawson",
+      "slug": "469-monica-dawson",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -18033,6 +18984,7 @@
     {
       "id": 470,
       "name": "Moon Knight",
+      "slug": "470-moon-knight",
       "powerstats": {
         "intelligence": 50,
         "strength": 36,
@@ -18089,6 +19041,7 @@
     {
       "id": 471,
       "name": "Moonstone",
+      "slug": "471-moonstone",
       "powerstats": {
         "intelligence": 56,
         "strength": 67,
@@ -18141,6 +19094,7 @@
     {
       "id": 472,
       "name": "Morlun",
+      "slug": "472-morlun",
       "powerstats": {
         "intelligence": 63,
         "strength": 60,
@@ -18192,6 +19146,7 @@
     {
       "id": 474,
       "name": "Moses Magnum",
+      "slug": "474-moses-magnum",
       "powerstats": {
         "intelligence": 75,
         "strength": 28,
@@ -18243,6 +19198,7 @@
     {
       "id": 475,
       "name": "Mr Immortal",
+      "slug": "475-mr-immortal",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -18294,6 +19250,7 @@
     {
       "id": 476,
       "name": "Mr Incredible",
+      "slug": "476-mr-incredible",
       "powerstats": {
         "intelligence": 50,
         "strength": 83,
@@ -18347,6 +19304,7 @@
     {
       "id": 477,
       "name": "Ms Marvel II",
+      "slug": "477-ms-marvel-ii",
       "powerstats": {
         "intelligence": 38,
         "strength": 63,
@@ -18398,6 +19356,7 @@
     {
       "id": 478,
       "name": "Multiple Man",
+      "slug": "478-multiple-man",
       "powerstats": {
         "intelligence": 63,
         "strength": 11,
@@ -18449,6 +19408,7 @@
     {
       "id": 479,
       "name": "Mysterio",
+      "slug": "479-mysterio",
       "powerstats": {
         "intelligence": 81,
         "strength": 10,
@@ -18503,6 +19463,7 @@
     {
       "id": 480,
       "name": "Mystique",
+      "slug": "480-mystique",
       "powerstats": {
         "intelligence": 75,
         "strength": 12,
@@ -18554,6 +19515,7 @@
     {
       "id": 481,
       "name": "Namor",
+      "slug": "481-namor",
       "powerstats": {
         "intelligence": 69,
         "strength": 95,
@@ -18616,6 +19578,7 @@
     {
       "id": 483,
       "name": "Namora",
+      "slug": "483-namora",
       "powerstats": {
         "intelligence": 50,
         "strength": 85,
@@ -18669,6 +19632,7 @@
     {
       "id": 484,
       "name": "Namorita",
+      "slug": "484-namorita",
       "powerstats": {
         "intelligence": 50,
         "strength": 72,
@@ -18721,6 +19685,7 @@
     {
       "id": 485,
       "name": "Naruto Uzumaki",
+      "slug": "485-naruto-uzumaki",
       "powerstats": {
         "intelligence": 50,
         "strength": 80,
@@ -18772,6 +19737,7 @@
     {
       "id": 487,
       "name": "Nebula",
+      "slug": "487-nebula",
       "powerstats": {
         "intelligence": 63,
         "strength": 52,
@@ -18823,6 +19789,7 @@
     {
       "id": 488,
       "name": "Negasonic Teenage Warhead",
+      "slug": "488-negasonic-teenage-warhead",
       "powerstats": {
         "intelligence": 50,
         "strength": 7,
@@ -18874,6 +19841,7 @@
     {
       "id": 489,
       "name": "Nick Fury",
+      "slug": "489-nick-fury",
       "powerstats": {
         "intelligence": 75,
         "strength": 11,
@@ -18928,6 +19896,7 @@
     {
       "id": 490,
       "name": "Nightcrawler",
+      "slug": "490-nightcrawler",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -18979,6 +19948,7 @@
     {
       "id": 491,
       "name": "Nightwing",
+      "slug": "491-nightwing",
       "powerstats": {
         "intelligence": 88,
         "strength": 11,
@@ -19039,6 +20009,7 @@
     {
       "id": 492,
       "name": "Niki Sanders",
+      "slug": "492-niki-sanders",
       "powerstats": {
         "intelligence": 63,
         "strength": 52,
@@ -19091,6 +20062,7 @@
     {
       "id": 493,
       "name": "Nina Theroux",
+      "slug": "493-nina-theroux",
       "powerstats": {
         "intelligence": 63,
         "strength": 5,
@@ -19142,6 +20114,7 @@
     {
       "id": 495,
       "name": "Northstar",
+      "slug": "495-northstar",
       "powerstats": {
         "intelligence": 50,
         "strength": 18,
@@ -19193,6 +20166,7 @@
     {
       "id": 496,
       "name": "Nova",
+      "slug": "496-nova",
       "powerstats": {
         "intelligence": 100,
         "strength": 85,
@@ -19250,6 +20224,7 @@
     {
       "id": 497,
       "name": "Nova",
+      "slug": "497-nova",
       "powerstats": {
         "intelligence": 63,
         "strength": 60,
@@ -19302,6 +20277,7 @@
     {
       "id": 498,
       "name": "Odin",
+      "slug": "498-odin",
       "powerstats": {
         "intelligence": 100,
         "strength": 83,
@@ -19360,6 +20336,7 @@
     {
       "id": 499,
       "name": "Offspring",
+      "slug": "499-offspring",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -19412,6 +20389,7 @@
     {
       "id": 502,
       "name": "One Punch Man",
+      "slug": "502-one-punch-man",
       "powerstats": {
         "intelligence": 38,
         "strength": 100,
@@ -19463,6 +20441,7 @@
     {
       "id": 503,
       "name": "One-Above-All",
+      "slug": "503-one-above-all",
       "powerstats": {
         "intelligence": 100,
         "strength": 100,
@@ -19514,6 +20493,7 @@
     {
       "id": 504,
       "name": "Onslaught",
+      "slug": "504-onslaught",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -19571,6 +20551,7 @@
     {
       "id": 505,
       "name": "Oracle",
+      "slug": "505-oracle",
       "powerstats": {
         "intelligence": 75,
         "strength": 11,
@@ -19623,6 +20604,7 @@
     {
       "id": 506,
       "name": "Osiris",
+      "slug": "506-osiris",
       "powerstats": {
         "intelligence": 75,
         "strength": 85,
@@ -19674,6 +20656,7 @@
     {
       "id": 508,
       "name": "Ozymandias",
+      "slug": "508-ozymandias",
       "powerstats": {
         "intelligence": 100,
         "strength": 18,
@@ -19725,6 +20708,7 @@
     {
       "id": 509,
       "name": "Parademon",
+      "slug": "509-parademon",
       "powerstats": {
         "intelligence": 9,
         "strength": 28,
@@ -19776,6 +20760,7 @@
     {
       "id": 510,
       "name": "Paul Blart",
+      "slug": "510-paul-blart",
       "powerstats": {
         "intelligence": 8,
         "strength": 11,
@@ -19827,6 +20812,7 @@
     {
       "id": 514,
       "name": "Penguin",
+      "slug": "514-penguin",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -19878,6 +20864,7 @@
     {
       "id": 516,
       "name": "Phantom Girl",
+      "slug": "516-phantom-girl",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -19929,6 +20916,7 @@
     {
       "id": 517,
       "name": "Phoenix",
+      "slug": "517-phoenix",
       "powerstats": {
         "intelligence": 100,
         "strength": 100,
@@ -19981,6 +20969,7 @@
     {
       "id": 518,
       "name": "Plantman",
+      "slug": "518-plantman",
       "powerstats": {
         "intelligence": 63,
         "strength": 60,
@@ -20032,6 +21021,7 @@
     {
       "id": 520,
       "name": "Plastic Man",
+      "slug": "520-plastic-man",
       "powerstats": {
         "intelligence": 50,
         "strength": 63,
@@ -20083,6 +21073,7 @@
     {
       "id": 521,
       "name": "Plastique",
+      "slug": "521-plastique",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -20134,6 +21125,7 @@
     {
       "id": 522,
       "name": "Poison Ivy",
+      "slug": "522-poison-ivy",
       "powerstats": {
         "intelligence": 81,
         "strength": 14,
@@ -20185,6 +21177,7 @@
     {
       "id": 523,
       "name": "Polaris",
+      "slug": "523-polaris",
       "powerstats": {
         "intelligence": 63,
         "strength": 73,
@@ -20241,6 +21234,7 @@
     {
       "id": 524,
       "name": "Power Girl",
+      "slug": "524-power-girl",
       "powerstats": {
         "intelligence": 94,
         "strength": 100,
@@ -20293,6 +21287,7 @@
     {
       "id": 526,
       "name": "Predator",
+      "slug": "526-predator",
       "powerstats": {
         "intelligence": 63,
         "strength": 30,
@@ -20346,6 +21341,7 @@
     {
       "id": 527,
       "name": "Professor X",
+      "slug": "527-professor-x",
       "powerstats": {
         "intelligence": 100,
         "strength": 8,
@@ -20400,6 +21396,7 @@
     {
       "id": 528,
       "name": "Professor Zoom",
+      "slug": "528-professor-zoom",
       "powerstats": {
         "intelligence": 94,
         "strength": 10,
@@ -20454,6 +21451,7 @@
     {
       "id": 529,
       "name": "Psylocke",
+      "slug": "529-psylocke",
       "powerstats": {
         "intelligence": 63,
         "strength": 33,
@@ -20507,6 +21505,7 @@
     {
       "id": 530,
       "name": "Punisher",
+      "slug": "530-punisher",
       "powerstats": {
         "intelligence": 69,
         "strength": 16,
@@ -20577,6 +21576,7 @@
     {
       "id": 531,
       "name": "Purple Man",
+      "slug": "531-purple-man",
       "powerstats": {
         "intelligence": 56,
         "strength": 10,
@@ -20628,6 +21628,7 @@
     {
       "id": 532,
       "name": "Pyro",
+      "slug": "532-pyro",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -20679,6 +21680,7 @@
     {
       "id": 533,
       "name": "Q",
+      "slug": "533-q",
       "powerstats": {
         "intelligence": 100,
         "strength": 12,
@@ -20730,6 +21732,7 @@
     {
       "id": 535,
       "name": "Question",
+      "slug": "535-question",
       "powerstats": {
         "intelligence": 81,
         "strength": 14,
@@ -20781,6 +21784,7 @@
     {
       "id": 536,
       "name": "Quicksilver",
+      "slug": "536-quicksilver",
       "powerstats": {
         "intelligence": 63,
         "strength": 28,
@@ -20834,6 +21838,7 @@
     {
       "id": 537,
       "name": "Quill",
+      "slug": "537-quill",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -20885,6 +21890,7 @@
     {
       "id": 538,
       "name": "Ra's Al Ghul",
+      "slug": "538-ras-al-ghul",
       "powerstats": {
         "intelligence": 100,
         "strength": 28,
@@ -20936,6 +21942,7 @@
     {
       "id": 539,
       "name": "Rachel Pirzad",
+      "slug": "539-rachel-pirzad",
       "powerstats": {
         "intelligence": 63,
         "strength": 4,
@@ -20987,6 +21994,7 @@
     {
       "id": 540,
       "name": "Rambo",
+      "slug": "540-rambo",
       "powerstats": {
         "intelligence": 63,
         "strength": 14,
@@ -21039,6 +22047,7 @@
     {
       "id": 541,
       "name": "Raphael",
+      "slug": "541-raphael",
       "powerstats": {
         "intelligence": 63,
         "strength": 17,
@@ -21090,6 +22099,7 @@
     {
       "id": 542,
       "name": "Raven",
+      "slug": "542-raven",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -21142,6 +22152,7 @@
     {
       "id": 543,
       "name": "Ray",
+      "slug": "543-ray",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -21193,6 +22204,7 @@
     {
       "id": 545,
       "name": "Red Arrow",
+      "slug": "545-red-arrow",
       "powerstats": {
         "intelligence": 63,
         "strength": 16,
@@ -21245,6 +22257,7 @@
     {
       "id": 546,
       "name": "Red Hood",
+      "slug": "546-red-hood",
       "powerstats": {
         "intelligence": 75,
         "strength": 12,
@@ -21300,6 +22313,7 @@
     {
       "id": 547,
       "name": "Red Hulk",
+      "slug": "547-red-hulk",
       "powerstats": {
         "intelligence": 50,
         "strength": 100,
@@ -21354,6 +22368,7 @@
     {
       "id": 548,
       "name": "Red Mist",
+      "slug": "548-red-mist",
       "powerstats": {
         "intelligence": 25,
         "strength": 10,
@@ -21405,6 +22420,7 @@
     {
       "id": 549,
       "name": "Red Robin",
+      "slug": "549-red-robin",
       "powerstats": {
         "intelligence": 81,
         "strength": 11,
@@ -21460,6 +22476,7 @@
     {
       "id": 550,
       "name": "Red Skull",
+      "slug": "550-red-skull",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -21519,6 +22536,7 @@
     {
       "id": 551,
       "name": "Red Tornado",
+      "slug": "551-red-tornado",
       "powerstats": {
         "intelligence": 75,
         "strength": 38,
@@ -21574,6 +22592,7 @@
     {
       "id": 555,
       "name": "Rey",
+      "slug": "555-rey",
       "powerstats": {
         "intelligence": 63,
         "strength": 8,
@@ -21625,6 +22644,7 @@
     {
       "id": 556,
       "name": "Rhino",
+      "slug": "556-rhino",
       "powerstats": {
         "intelligence": 25,
         "strength": 80,
@@ -21677,6 +22697,7 @@
     {
       "id": 557,
       "name": "Rick Flag",
+      "slug": "557-rick-flag",
       "powerstats": {
         "intelligence": 88,
         "strength": 11,
@@ -21728,6 +22749,7 @@
     {
       "id": 558,
       "name": "Riddler",
+      "slug": "558-riddler",
       "powerstats": {
         "intelligence": 100,
         "strength": 10,
@@ -21780,6 +22802,7 @@
     {
       "id": 559,
       "name": "Rip Hunter",
+      "slug": "559-rip-hunter",
       "powerstats": {
         "intelligence": 100,
         "strength": 8,
@@ -21837,6 +22860,7 @@
     {
       "id": 561,
       "name": "Robin",
+      "slug": "561-robin",
       "powerstats": {
         "intelligence": 88,
         "strength": 11,
@@ -21890,6 +22914,7 @@
     {
       "id": 562,
       "name": "Robin II",
+      "slug": "562-robin-ii",
       "powerstats": {
         "intelligence": 75,
         "strength": 11,
@@ -21947,6 +22972,7 @@
     {
       "id": 563,
       "name": "Robin III",
+      "slug": "563-robin-iii",
       "powerstats": {
         "intelligence": 81,
         "strength": 11,
@@ -22001,6 +23027,7 @@
     {
       "id": 564,
       "name": "Robin V",
+      "slug": "564-robin-v",
       "powerstats": {
         "intelligence": 69,
         "strength": 8,
@@ -22055,6 +23082,7 @@
     {
       "id": 565,
       "name": "Robin VI",
+      "slug": "565-robin-vi",
       "powerstats": {
         "intelligence": 50,
         "strength": 8,
@@ -22106,6 +23134,7 @@
     {
       "id": 566,
       "name": "Rocket Raccoon",
+      "slug": "566-rocket-raccoon",
       "powerstats": {
         "intelligence": 50,
         "strength": 5,
@@ -22159,6 +23188,7 @@
     {
       "id": 567,
       "name": "Rogue",
+      "slug": "567-rogue",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -22214,6 +23244,7 @@
     {
       "id": 568,
       "name": "Ronin",
+      "slug": "568-ronin",
       "powerstats": {
         "intelligence": 56,
         "strength": 12,
@@ -22276,6 +23307,7 @@
     {
       "id": 569,
       "name": "Rorschach",
+      "slug": "569-rorschach",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -22327,6 +23359,7 @@
     {
       "id": 570,
       "name": "Sabretooth",
+      "slug": "570-sabretooth",
       "powerstats": {
         "intelligence": 56,
         "strength": 48,
@@ -22379,6 +23412,7 @@
     {
       "id": 571,
       "name": "Sage",
+      "slug": "571-sage",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -22430,6 +23464,7 @@
     {
       "id": 572,
       "name": "Sandman",
+      "slug": "572-sandman",
       "powerstats": {
         "intelligence": 44,
         "strength": 75,
@@ -22483,6 +23518,7 @@
     {
       "id": 573,
       "name": "Sasquatch",
+      "slug": "573-sasquatch",
       "powerstats": {
         "intelligence": 75,
         "strength": 80,
@@ -22535,6 +23571,7 @@
     {
       "id": 574,
       "name": "Sauron",
+      "slug": "574-sauron",
       "powerstats": {
         "intelligence": 88,
         "strength": 85,
@@ -22592,6 +23629,7 @@
     {
       "id": 575,
       "name": "Savage Dragon",
+      "slug": "575-savage-dragon",
       "powerstats": {
         "intelligence": 63,
         "strength": 70,
@@ -22643,6 +23681,7 @@
     {
       "id": 576,
       "name": "Scarecrow",
+      "slug": "576-scarecrow",
       "powerstats": {
         "intelligence": 81,
         "strength": 10,
@@ -22694,6 +23733,7 @@
     {
       "id": 577,
       "name": "Scarlet Spider",
+      "slug": "577-scarlet-spider",
       "powerstats": {
         "intelligence": 75,
         "strength": 53,
@@ -22746,6 +23786,7 @@
     {
       "id": 578,
       "name": "Scarlet Spider II",
+      "slug": "578-scarlet-spider-ii",
       "powerstats": {
         "intelligence": 88,
         "strength": 55,
@@ -22799,6 +23840,7 @@
     {
       "id": 579,
       "name": "Scarlet Witch",
+      "slug": "579-scarlet-witch",
       "powerstats": {
         "intelligence": 100,
         "strength": 10,
@@ -22854,6 +23896,7 @@
     {
       "id": 580,
       "name": "Scorpia",
+      "slug": "580-scorpia",
       "powerstats": {
         "intelligence": 38,
         "strength": 28,
@@ -22905,6 +23948,7 @@
     {
       "id": 581,
       "name": "Scorpion",
+      "slug": "581-scorpion",
       "powerstats": {
         "intelligence": 50,
         "strength": 52,
@@ -22957,6 +24001,7 @@
     {
       "id": 582,
       "name": "Sebastian Shaw",
+      "slug": "582-sebastian-shaw",
       "powerstats": {
         "intelligence": 63,
         "strength": 85,
@@ -23008,6 +24053,7 @@
     {
       "id": 583,
       "name": "Sentry",
+      "slug": "583-sentry",
       "powerstats": {
         "intelligence": 75,
         "strength": 100,
@@ -23063,6 +24109,7 @@
     {
       "id": 584,
       "name": "Shadow King",
+      "slug": "584-shadow-king",
       "powerstats": {
         "intelligence": 75,
         "strength": 12,
@@ -23122,6 +24169,7 @@
     {
       "id": 585,
       "name": "Shadow Lass",
+      "slug": "585-shadow-lass",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -23173,6 +24221,7 @@
     {
       "id": 586,
       "name": "Shadowcat",
+      "slug": "586-shadowcat",
       "powerstats": {
         "intelligence": 88,
         "strength": 8,
@@ -23227,6 +24276,7 @@
     {
       "id": 587,
       "name": "Shang-Chi",
+      "slug": "587-shang-chi",
       "powerstats": {
         "intelligence": 63,
         "strength": 12,
@@ -23278,6 +24328,7 @@
     {
       "id": 588,
       "name": "Shatterstar",
+      "slug": "588-shatterstar",
       "powerstats": {
         "intelligence": 63,
         "strength": 48,
@@ -23329,6 +24380,7 @@
     {
       "id": 589,
       "name": "She-Hulk",
+      "slug": "589-she-hulk",
       "powerstats": {
         "intelligence": 81,
         "strength": 100,
@@ -23380,6 +24432,7 @@
     {
       "id": 590,
       "name": "She-Thing",
+      "slug": "590-she-thing",
       "powerstats": {
         "intelligence": 69,
         "strength": 72,
@@ -23432,6 +24485,7 @@
     {
       "id": 591,
       "name": "Shocker",
+      "slug": "591-shocker",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -23483,6 +24537,7 @@
     {
       "id": 592,
       "name": "Shriek",
+      "slug": "592-shriek",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -23534,6 +24589,7 @@
     {
       "id": 594,
       "name": "Sif",
+      "slug": "594-sif",
       "powerstats": {
         "intelligence": 63,
         "strength": 90,
@@ -23588,6 +24644,7 @@
     {
       "id": 595,
       "name": "Silk",
+      "slug": "595-silk",
       "powerstats": {
         "intelligence": 75,
         "strength": 48,
@@ -23639,6 +24696,7 @@
     {
       "id": 598,
       "name": "Silver Surfer",
+      "slug": "598-silver-surfer",
       "powerstats": {
         "intelligence": 56,
         "strength": 100,
@@ -23690,6 +24748,7 @@
     {
       "id": 599,
       "name": "Silverclaw",
+      "slug": "599-silverclaw",
       "powerstats": {
         "intelligence": 50,
         "strength": 28,
@@ -23742,6 +24801,7 @@
     {
       "id": 600,
       "name": "Simon Baz",
+      "slug": "600-simon-baz",
       "powerstats": {
         "intelligence": 56,
         "strength": 90,
@@ -23794,6 +24854,7 @@
     {
       "id": 601,
       "name": "Sinestro",
+      "slug": "601-sinestro",
       "powerstats": {
         "intelligence": 75,
         "strength": 85,
@@ -23849,6 +24910,7 @@
     {
       "id": 602,
       "name": "Siren",
+      "slug": "602-siren",
       "powerstats": {
         "intelligence": 56,
         "strength": 62,
@@ -23900,6 +24962,7 @@
     {
       "id": 604,
       "name": "Siryn",
+      "slug": "604-siryn",
       "powerstats": {
         "intelligence": 38,
         "strength": 8,
@@ -23951,6 +25014,7 @@
     {
       "id": 605,
       "name": "Skaar",
+      "slug": "605-skaar",
       "powerstats": {
         "intelligence": 50,
         "strength": 85,
@@ -24007,6 +25071,7 @@
     {
       "id": 607,
       "name": "Snowbird",
+      "slug": "607-snowbird",
       "powerstats": {
         "intelligence": 50,
         "strength": 32,
@@ -24058,6 +25123,7 @@
     {
       "id": 608,
       "name": "Sobek",
+      "slug": "608-sobek",
       "powerstats": {
         "intelligence": 50,
         "strength": 34,
@@ -24109,6 +25175,7 @@
     {
       "id": 609,
       "name": "Solomon Grundy",
+      "slug": "609-solomon-grundy",
       "powerstats": {
         "intelligence": 9,
         "strength": 93,
@@ -24160,6 +25227,7 @@
     {
       "id": 610,
       "name": "Songbird",
+      "slug": "610-songbird",
       "powerstats": {
         "intelligence": 75,
         "strength": 36,
@@ -24213,6 +25281,7 @@
     {
       "id": 611,
       "name": "Space Ghost",
+      "slug": "611-space-ghost",
       "powerstats": {
         "intelligence": 38,
         "strength": 18,
@@ -24265,6 +25334,7 @@
     {
       "id": 612,
       "name": "Spawn",
+      "slug": "612-spawn",
       "powerstats": {
         "intelligence": 75,
         "strength": 60,
@@ -24317,6 +25387,7 @@
     {
       "id": 613,
       "name": "Spectre",
+      "slug": "613-spectre",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -24374,6 +25445,7 @@
     {
       "id": 615,
       "name": "Speedy",
+      "slug": "615-speedy",
       "powerstats": {
         "intelligence": 50,
         "strength": 6,
@@ -24427,6 +25499,7 @@
     {
       "id": 618,
       "name": "Spider-Girl",
+      "slug": "618-spider-girl",
       "powerstats": {
         "intelligence": 63,
         "strength": 38,
@@ -24478,6 +25551,7 @@
     {
       "id": 619,
       "name": "Spider-Gwen",
+      "slug": "619-spider-gwen",
       "powerstats": {
         "intelligence": 75,
         "strength": 55,
@@ -24529,6 +25603,7 @@
     {
       "id": 620,
       "name": "Spider-Man",
+      "slug": "620-spider-man",
       "powerstats": {
         "intelligence": 90,
         "strength": 55,
@@ -24594,6 +25669,7 @@
     {
       "id": 623,
       "name": "Spider-Woman",
+      "slug": "623-spider-woman",
       "powerstats": {
         "intelligence": 56,
         "strength": 42,
@@ -24648,6 +25724,7 @@
     {
       "id": 625,
       "name": "Spider-Woman III",
+      "slug": "625-spider-woman-iii",
       "powerstats": {
         "intelligence": 50,
         "strength": 48,
@@ -24699,6 +25776,7 @@
     {
       "id": 627,
       "name": "Spock",
+      "slug": "627-spock",
       "powerstats": {
         "intelligence": 81,
         "strength": 18,
@@ -24750,6 +25828,7 @@
     {
       "id": 628,
       "name": "Spyke",
+      "slug": "628-spyke",
       "powerstats": {
         "intelligence": 50,
         "strength": 12,
@@ -24802,6 +25881,7 @@
     {
       "id": 630,
       "name": "Star-Lord",
+      "slug": "630-star-lord",
       "powerstats": {
         "intelligence": 69,
         "strength": 20,
@@ -24853,6 +25933,7 @@
     {
       "id": 631,
       "name": "Stardust",
+      "slug": "631-stardust",
       "powerstats": {
         "intelligence": 88,
         "strength": 85,
@@ -24904,6 +25985,7 @@
     {
       "id": 632,
       "name": "Starfire",
+      "slug": "632-starfire",
       "powerstats": {
         "intelligence": 50,
         "strength": 80,
@@ -24957,6 +26039,7 @@
     {
       "id": 633,
       "name": "Stargirl",
+      "slug": "633-stargirl",
       "powerstats": {
         "intelligence": 63,
         "strength": 80,
@@ -25010,6 +26093,7 @@
     {
       "id": 634,
       "name": "Static",
+      "slug": "634-static",
       "powerstats": {
         "intelligence": 69,
         "strength": 8,
@@ -25064,6 +26148,7 @@
     {
       "id": 635,
       "name": "Steel",
+      "slug": "635-steel",
       "powerstats": {
         "intelligence": 81,
         "strength": 82,
@@ -25116,6 +26201,7 @@
     {
       "id": 636,
       "name": "Stephanie Powell",
+      "slug": "636-stephanie-powell",
       "powerstats": {
         "intelligence": 69,
         "strength": 10,
@@ -25167,6 +26253,7 @@
     {
       "id": 637,
       "name": "Steppenwolf",
+      "slug": "637-steppenwolf",
       "powerstats": {
         "intelligence": 94,
         "strength": 100,
@@ -25218,6 +26305,7 @@
     {
       "id": 638,
       "name": "Storm",
+      "slug": "638-storm",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -25281,6 +26369,7 @@
     {
       "id": 639,
       "name": "Stormtrooper",
+      "slug": "639-stormtrooper",
       "powerstats": {
         "intelligence": 10,
         "strength": 8,
@@ -25332,6 +26421,7 @@
     {
       "id": 640,
       "name": "Sunspot",
+      "slug": "640-sunspot",
       "powerstats": {
         "intelligence": 63,
         "strength": 63,
@@ -25386,6 +26476,7 @@
     {
       "id": 641,
       "name": "Superboy",
+      "slug": "641-superboy",
       "powerstats": {
         "intelligence": 75,
         "strength": 95,
@@ -25438,6 +26529,7 @@
     {
       "id": 642,
       "name": "Superboy-Prime",
+      "slug": "642-superboy-prime",
       "powerstats": {
         "intelligence": 94,
         "strength": 100,
@@ -25489,6 +26581,7 @@
     {
       "id": 643,
       "name": "Supergirl",
+      "slug": "643-supergirl",
       "powerstats": {
         "intelligence": 94,
         "strength": 100,
@@ -25551,6 +26644,7 @@
     {
       "id": 644,
       "name": "Superman",
+      "slug": "644-superman",
       "powerstats": {
         "intelligence": 94,
         "strength": 100,
@@ -25608,6 +26702,7 @@
     {
       "id": 645,
       "name": "Swamp Thing",
+      "slug": "645-swamp-thing",
       "powerstats": {
         "intelligence": 88,
         "strength": 95,
@@ -25663,6 +26758,7 @@
     {
       "id": 646,
       "name": "Swarm",
+      "slug": "646-swarm",
       "powerstats": {
         "intelligence": 75,
         "strength": 18,
@@ -25714,6 +26810,7 @@
     {
       "id": 647,
       "name": "Sylar",
+      "slug": "647-sylar",
       "powerstats": {
         "intelligence": 75,
         "strength": 10,
@@ -25769,6 +26866,7 @@
     {
       "id": 648,
       "name": "Synch",
+      "slug": "648-synch",
       "powerstats": {
         "intelligence": 75,
         "strength": 67,
@@ -25820,6 +26918,7 @@
     {
       "id": 649,
       "name": "T-1000",
+      "slug": "649-t-1000",
       "powerstats": {
         "intelligence": 75,
         "strength": 34,
@@ -25872,6 +26971,7 @@
     {
       "id": 650,
       "name": "T-800",
+      "slug": "650-t-800",
       "powerstats": {
         "intelligence": 75,
         "strength": 34,
@@ -25923,6 +27023,7 @@
     {
       "id": 651,
       "name": "T-850",
+      "slug": "651-t-850",
       "powerstats": {
         "intelligence": 75,
         "strength": 80,
@@ -25974,6 +27075,7 @@
     {
       "id": 652,
       "name": "T-X",
+      "slug": "652-t-x",
       "powerstats": {
         "intelligence": 75,
         "strength": 63,
@@ -26025,6 +27127,7 @@
     {
       "id": 653,
       "name": "Taskmaster",
+      "slug": "653-taskmaster",
       "powerstats": {
         "intelligence": 75,
         "strength": 12,
@@ -26076,6 +27179,7 @@
     {
       "id": 654,
       "name": "Tempest",
+      "slug": "654-tempest",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -26127,6 +27231,7 @@
     {
       "id": 655,
       "name": "Thanos",
+      "slug": "655-thanos",
       "powerstats": {
         "intelligence": 100,
         "strength": 100,
@@ -26181,6 +27286,7 @@
     {
       "id": 656,
       "name": "The Cape",
+      "slug": "656-the-cape",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -26232,6 +27338,7 @@
     {
       "id": 657,
       "name": "The Comedian",
+      "slug": "657-the-comedian",
       "powerstats": {
         "intelligence": 63,
         "strength": 14,
@@ -26283,6 +27390,7 @@
     {
       "id": 658,
       "name": "Thing",
+      "slug": "658-thing",
       "powerstats": {
         "intelligence": 75,
         "strength": 84,
@@ -26336,6 +27444,7 @@
     {
       "id": 659,
       "name": "Thor",
+      "slug": "659-thor",
       "powerstats": {
         "intelligence": 69,
         "strength": 100,
@@ -26390,6 +27499,7 @@
     {
       "id": 660,
       "name": "Thor Girl",
+      "slug": "660-thor-girl",
       "powerstats": {
         "intelligence": 75,
         "strength": 83,
@@ -26452,6 +27562,7 @@
     {
       "id": 661,
       "name": "Thunderbird",
+      "slug": "661-thunderbird",
       "powerstats": {
         "intelligence": 50,
         "strength": 32,
@@ -26503,6 +27614,7 @@
     {
       "id": 664,
       "name": "Thunderstrike",
+      "slug": "664-thunderstrike",
       "powerstats": {
         "intelligence": 63,
         "strength": 80,
@@ -26554,6 +27666,7 @@
     {
       "id": 665,
       "name": "Thundra",
+      "slug": "665-thundra",
       "powerstats": {
         "intelligence": 38,
         "strength": 81,
@@ -26605,6 +27718,7 @@
     {
       "id": 666,
       "name": "Tiger Shark",
+      "slug": "666-tiger-shark",
       "powerstats": {
         "intelligence": 38,
         "strength": 72,
@@ -26656,6 +27770,7 @@
     {
       "id": 667,
       "name": "Tigra",
+      "slug": "667-tigra",
       "powerstats": {
         "intelligence": 63,
         "strength": 32,
@@ -26708,6 +27823,7 @@
     {
       "id": 668,
       "name": "Tinkerer",
+      "slug": "668-tinkerer",
       "powerstats": {
         "intelligence": 100,
         "strength": 10,
@@ -26759,6 +27875,7 @@
     {
       "id": 670,
       "name": "Toad",
+      "slug": "670-toad",
       "powerstats": {
         "intelligence": 50,
         "strength": 34,
@@ -26810,6 +27927,7 @@
     {
       "id": 671,
       "name": "Toxin",
+      "slug": "671-toxin",
       "powerstats": {
         "intelligence": 56,
         "strength": 73,
@@ -26861,6 +27979,7 @@
     {
       "id": 672,
       "name": "Toxin",
+      "slug": "672-toxin",
       "powerstats": {
         "intelligence": 75,
         "strength": 80,
@@ -26920,6 +28039,7 @@
     {
       "id": 676,
       "name": "Triplicate Girl",
+      "slug": "676-triplicate-girl",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -26973,6 +28093,7 @@
     {
       "id": 677,
       "name": "Triton",
+      "slug": "677-triton",
       "powerstats": {
         "intelligence": 56,
         "strength": 63,
@@ -27024,6 +28145,7 @@
     {
       "id": 678,
       "name": "Two-Face",
+      "slug": "678-two-face",
       "powerstats": {
         "intelligence": 88,
         "strength": 10,
@@ -27075,6 +28197,7 @@
     {
       "id": 679,
       "name": "Ultragirl",
+      "slug": "679-ultragirl",
       "powerstats": {
         "intelligence": 50,
         "strength": 80,
@@ -27127,6 +28250,7 @@
     {
       "id": 680,
       "name": "Ultron",
+      "slug": "680-ultron",
       "powerstats": {
         "intelligence": 88,
         "strength": 83,
@@ -27187,6 +28311,7 @@
     {
       "id": 681,
       "name": "Utgard-Loki",
+      "slug": "681-utgard-loki",
       "powerstats": {
         "intelligence": 50,
         "strength": 80,
@@ -27238,6 +28363,7 @@
     {
       "id": 685,
       "name": "Vanisher",
+      "slug": "685-vanisher",
       "powerstats": {
         "intelligence": 63,
         "strength": 10,
@@ -27289,6 +28415,7 @@
     {
       "id": 686,
       "name": "Vegeta",
+      "slug": "686-vegeta",
       "powerstats": {
         "intelligence": 81,
         "strength": 100,
@@ -27352,6 +28479,7 @@
     {
       "id": 687,
       "name": "Venom",
+      "slug": "687-venom",
       "powerstats": {
         "intelligence": 75,
         "strength": 57,
@@ -27403,6 +28531,7 @@
     {
       "id": 688,
       "name": "Venom II",
+      "slug": "688-venom-ii",
       "powerstats": {
         "intelligence": 50,
         "strength": 57,
@@ -27454,6 +28583,7 @@
     {
       "id": 689,
       "name": "Venom III",
+      "slug": "689-venom-iii",
       "powerstats": {
         "intelligence": 63,
         "strength": 73,
@@ -27505,6 +28635,7 @@
     {
       "id": 690,
       "name": "Venompool",
+      "slug": "690-venompool",
       "powerstats": {
         "intelligence": 69,
         "strength": 57,
@@ -27556,6 +28687,7 @@
     {
       "id": 692,
       "name": "Vibe",
+      "slug": "692-vibe",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -27607,6 +28739,7 @@
     {
       "id": 693,
       "name": "Vindicator",
+      "slug": "693-vindicator",
       "powerstats": {
         "intelligence": 63,
         "strength": 63,
@@ -27658,6 +28791,7 @@
     {
       "id": 696,
       "name": "Violet Parr",
+      "slug": "696-violet-parr",
       "powerstats": {
         "intelligence": 56,
         "strength": 9,
@@ -27711,6 +28845,7 @@
     {
       "id": 697,
       "name": "Vision",
+      "slug": "697-vision",
       "powerstats": {
         "intelligence": 100,
         "strength": 72,
@@ -27762,6 +28897,7 @@
     {
       "id": 699,
       "name": "Vixen",
+      "slug": "699-vixen",
       "powerstats": {
         "intelligence": 50,
         "strength": 38,
@@ -27813,6 +28949,7 @@
     {
       "id": 701,
       "name": "Vulture",
+      "slug": "701-vulture",
       "powerstats": {
         "intelligence": 75,
         "strength": 22,
@@ -27864,6 +29001,7 @@
     {
       "id": 702,
       "name": "Walrus",
+      "slug": "702-walrus",
       "powerstats": {
         "intelligence": 50,
         "strength": 28,
@@ -27915,6 +29053,7 @@
     {
       "id": 703,
       "name": "War Machine",
+      "slug": "703-war-machine",
       "powerstats": {
         "intelligence": 63,
         "strength": 80,
@@ -27968,6 +29107,7 @@
     {
       "id": 705,
       "name": "Warlock",
+      "slug": "705-warlock",
       "powerstats": {
         "intelligence": 88,
         "strength": 36,
@@ -28020,6 +29160,7 @@
     {
       "id": 706,
       "name": "Warp",
+      "slug": "706-warp",
       "powerstats": {
         "intelligence": 38,
         "strength": 10,
@@ -28071,6 +29212,7 @@
     {
       "id": 707,
       "name": "Warpath",
+      "slug": "707-warpath",
       "powerstats": {
         "intelligence": 38,
         "strength": 72,
@@ -28122,6 +29264,7 @@
     {
       "id": 708,
       "name": "Wasp",
+      "slug": "708-wasp",
       "powerstats": {
         "intelligence": 63,
         "strength": 17,
@@ -28173,6 +29316,7 @@
     {
       "id": 709,
       "name": "Watcher",
+      "slug": "709-watcher",
       "powerstats": {
         "intelligence": 100,
         "strength": 80,
@@ -28224,6 +29368,7 @@
     {
       "id": 711,
       "name": "White Canary",
+      "slug": "711-white-canary",
       "powerstats": {
         "intelligence": 63,
         "strength": 7,
@@ -28276,6 +29421,7 @@
     {
       "id": 713,
       "name": "Wildfire",
+      "slug": "713-wildfire",
       "powerstats": {
         "intelligence": 50,
         "strength": 32,
@@ -28330,6 +29476,7 @@
     {
       "id": 714,
       "name": "Winter Soldier",
+      "slug": "714-winter-soldier",
       "powerstats": {
         "intelligence": 56,
         "strength": 32,
@@ -28382,6 +29529,7 @@
     {
       "id": 716,
       "name": "Wolfsbane",
+      "slug": "716-wolfsbane",
       "powerstats": {
         "intelligence": 38,
         "strength": 16,
@@ -28434,6 +29582,7 @@
     {
       "id": 717,
       "name": "Wolverine",
+      "slug": "717-wolverine",
       "powerstats": {
         "intelligence": 63,
         "strength": 32,
@@ -28496,6 +29645,7 @@
     {
       "id": 718,
       "name": "Wonder Girl",
+      "slug": "718-wonder-girl",
       "powerstats": {
         "intelligence": 75,
         "strength": 90,
@@ -28551,6 +29701,7 @@
     {
       "id": 719,
       "name": "Wonder Man",
+      "slug": "719-wonder-man",
       "powerstats": {
         "intelligence": 75,
         "strength": 100,
@@ -28603,6 +29754,7 @@
     {
       "id": 720,
       "name": "Wonder Woman",
+      "slug": "720-wonder-woman",
       "powerstats": {
         "intelligence": 88,
         "strength": 100,
@@ -28659,6 +29811,7 @@
     {
       "id": 722,
       "name": "Wyatt Wingfoot",
+      "slug": "722-wyatt-wingfoot",
       "powerstats": {
         "intelligence": 10,
         "strength": 10,
@@ -28710,6 +29863,7 @@
     {
       "id": 723,
       "name": "X-23",
+      "slug": "723-x-23",
       "powerstats": {
         "intelligence": 75,
         "strength": 24,
@@ -28766,6 +29920,7 @@
     {
       "id": 724,
       "name": "X-Man",
+      "slug": "724-x-man",
       "powerstats": {
         "intelligence": 88,
         "strength": 53,
@@ -28817,6 +29972,7 @@
     {
       "id": 726,
       "name": "Yellowjacket",
+      "slug": "726-yellowjacket",
       "powerstats": {
         "intelligence": 88,
         "strength": 10,
@@ -28868,6 +30024,7 @@
     {
       "id": 727,
       "name": "Yellowjacket II",
+      "slug": "727-yellowjacket-ii",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -28919,6 +30076,7 @@
     {
       "id": 728,
       "name": "Ymir",
+      "slug": "728-ymir",
       "powerstats": {
         "intelligence": 50,
         "strength": 100,
@@ -28970,6 +30128,7 @@
     {
       "id": 729,
       "name": "Yoda",
+      "slug": "729-yoda",
       "powerstats": {
         "intelligence": 88,
         "strength": 52,
@@ -29021,6 +30180,7 @@
     {
       "id": 730,
       "name": "Zatanna",
+      "slug": "730-zatanna",
       "powerstats": {
         "intelligence": 81,
         "strength": 10,
@@ -29072,6 +30232,7 @@
     {
       "id": 731,
       "name": "Zoom",
+      "slug": "731-zoom",
       "powerstats": {
         "intelligence": 50,
         "strength": 10,
@@ -29118,126 +30279,6 @@
         "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/731-zoom.jpg",
         "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/731-zoom.jpg",
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/731-zoom.jpg"
-      }
-    },
-    {
-      "id": 734,
-      "name": "TES1",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      },
-      "powerstats": {
-        "intelligence": 0,
-        "strength": 0,
-        "speed": 0,
-        "durability": 0,
-        "power": 0,
-        "combat": 0
-      }
-    },
-    {
-      "id": 735,
-      "name": "a",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      },
-      "powerstats": {
-        "intelligence": 0,
-        "strength": 0,
-        "speed": 0,
-        "durability": 0,
-        "power": 0,
-        "combat": 0
-      }
-    },
-    {
-      "id": 736,
-      "name": "aa",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      },
-      "powerstats": {
-        "intelligence": 0,
-        "strength": 0,
-        "speed": 0,
-        "durability": 0,
-        "power": 0,
-        "combat": 0
-      }
-    },
-    {
-      "id": 737,
-      "name": "aaaaaaaaa",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      },
-      "powerstats": {
-        "intelligence": 0,
-        "strength": 0,
-        "speed": 0,
-        "durability": 0,
-        "power": 0,
-        "combat": 0
-      }
-    },
-    {
-      "id": 738,
-      "name": "Jamilenuo",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      },
-      "powerstats": {
-        "intelligence": 0,
-        "strength": 56,
-        "speed": 0,
-        "durability": 0,
-        "power": 0,
-        "combat": 0
-      }
-    },
-    {
-      "id": 739,
-      "name": "aaaa",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/12-air-walker.jpg"
-      },
-      "powerstats": {
-        "intelligence": 0,
-        "strength": 0,
-        "speed": 0,
-        "durability": 0,
-        "power": 0,
-        "combat": 0
-      }
-    },
-    {
-      "id": 740,
-      "name": "ab",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      },
-      "powerstats": {
-        "intelligence": 0,
-        "strength": 0,
-        "speed": 0,
-        "durability": 0,
-        "power": 0,
-        "combat": 0
-      }
-    },
-    {
-      "id": 741,
-      "name": "ab",
-      "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
-      },
-      "powerstats": {
-        "intelligence": 0,
-        "strength": 0,
-        "speed": 0,
-        "durability": 0,
-        "power": 0,
-        "combat": 0
       }
     }
   ]

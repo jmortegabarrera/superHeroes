@@ -50,7 +50,7 @@
     },
     {
       "id": 12,
-      "name": "AIR-WALKER",
+      "name": "Air-walker",
       "powerstats": {
         "intelligence": 34,
         "strength": 85,
@@ -100,7 +100,7 @@
       "id": 13,
       "name": "AJAX ",
       "powerstats": {
-        "intelligence": 56,
+        "intelligence": 31,
         "strength": 48,
         "speed": 35,
         "durability": 80,
@@ -143,7 +143,7 @@
         "relatives": "-"
       },
       "images": {
-        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/13-ajax.jpg"
+        "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/15-alex-mercer.jpg"
       }
     },
     {
@@ -29182,13 +29182,13 @@
     },
     {
       "id": 738,
-      "name": "jamilenuo",
+      "name": "Jamilenuo",
       "images": {
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg"
       },
       "powerstats": {
         "intelligence": 0,
-        "strength": 0,
+        "strength": 56,
         "speed": 0,
         "durability": 0,
         "power": 0,

@@ -43,7 +43,6 @@ export class EditHeroModalComponent implements OnInit {
       this.heroInput.powerstats = this.hero.powerstats;
       this.powers = Object.entries(this.hero.powerstats);
     }
-    console.log(this.heroInput.images)
   }
 
   save() {

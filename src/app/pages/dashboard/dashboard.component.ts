@@ -35,8 +35,8 @@ export class DashboardComponent implements OnInit {
     this.getInitialHeroes(filter);
   }
 
-  searchHeroes(event: any) {
-    if (!event.type) {
+  searchHeroes(event?: any) {
+    if (!event || !event.type) {
       this.getHeroesByNameInput.name = event.searchString;
       this.getHeroesByNameInput.filter = this.filter;
       this.getHeroesFiltered();
@@ -44,7 +44,7 @@ export class DashboardComponent implements OnInit {
       const getHeroByIdInput = new GetHeroByIdInput();
       getHeroByIdInput.id = event.searchString;
       this.superHeroesService.getHeroById$(getHeroByIdInput).subscribe(result => {
-        if(!result){
+        if (!result) {
           this.toastService.error('Not found hero with this id');
           return;
         }
@@ -64,7 +64,7 @@ export class DashboardComponent implements OnInit {
     });
     this.superHeroesService.getAllHeroesFilteredCount$(this.getHeroesByNameInput).subscribe(result => {
       this.totalHeroes = result;
-      if(this.totalHeroes === 0){
+      if (this.totalHeroes === 0) {
         this.toastService.error('Not found hero with this name');
       }
     });
@@ -81,6 +81,6 @@ export class DashboardComponent implements OnInit {
 
   orderHeroes(order: string) {
     this.filter.order = order;
-    this.searchHeroes(this.getHeroesByNameInput.name);
+    this.searchHeroes({ searchString: this.getHeroesByNameInput.name });
   }
 }
